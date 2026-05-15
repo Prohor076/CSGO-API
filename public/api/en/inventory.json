@@ -150325,6 +150325,66 @@
    },
    "marketable": true,
    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIijyEKzb_3d19nuIXKQ4ER24YXLugipQEn0mpPl_icD6qD4a6c7I6XGWTbFx7ZysbIxG3C3zEtz4G6BmImoImXXMFEshFifrQ"
+  },
+  "98": {
+   "name": "Music Kit | ALRT, DOPAMINE HIT",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "High Grade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/alrt_01_png.png"
+  },
+  "99": {
+   "name": "Music Kit | Altare, Change My Mind",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "High Grade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/altare_01_png.png"
+  },
+  "100": {
+   "name": "Music Kit | borne, Give It To Me",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "High Grade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/borne_01_png.png"
+  },
+  "101": {
+   "name": "Music Kit | Pirapus, EVERYNITE",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "High Grade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/pirapus_01_png.png"
+  },
+  "102": {
+   "name": "Music Kit | Repiet & Julia Kleijn, On And On",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "High Grade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/repiet_01_png.png"
+  },
+  "103": {
+   "name": "Music Kit | ShockOne, Voices",
+   "rarity": {
+    "id": "rarity_rare",
+    "name": "High Grade",
+    "color": "#4b69ff"
+   },
+   "marketable": true,
+   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/shockone_01_png.png"
   }
  },
  "keychains": {

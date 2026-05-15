@@ -124150,8 +124150,8 @@
  },
  {
   "id": "crate-4914",
-  "name": "Ящик с музыкой от NIGHTMODE",
-  "description": "Этот ящик содержит различные наборы музыки от NIGHTMODE.",
+  "name": "Ящик с музыкой NIGHTMODE",
+  "description": "Этот ящик содержит различные наборы музыки от исполнителей с лейбла NIGHTMODE.",
   "def_index": "4914",
   "type": "Music Kit Box",
   "first_sale_date": "2024/01/24",
@@ -124235,8 +124235,8 @@
  },
  {
   "id": "crate-4915",
-  "name": "Ящик с музыкой от NIGHTMODE — StatTrak™",
-  "description": "Этот ящик содержит различные наборы музыки с технологией StatTrak™ от NIGHTMODE.",
+  "name": "Ящик с музыкой NIGHTMODE — StatTrak™",
+  "description": "Этот ящик содержит различные наборы музыки с технологией StatTrak™ от исполнителей с лейбла NIGHTMODE.",
   "def_index": "4915",
   "type": "Music Kit Box",
   "first_sale_date": "2024/01/24",
@@ -151980,7 +151980,250 @@
     "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL2kpnj9h1c4_2tY5tnJOCWC2yvzedxuPUnS3HqzR9152_UyNigeSqWa1BxW8ElRLJfshfpkNHuZO_n4ADd2IxBxDK-0H3ID5Y8zA"
    }
   ],
-  "contains_rare": [],
+  "contains_rare": [
+   {
+    "id": "skin-b8f492474850",
+    "name": "★ Водительские перчатки | Парчовый журавль",
+    "rarity": {
+     "id": "rarity_ancient",
+     "name": "экстраординарного типа",
+     "color": "#eb4b4b"
+    },
+    "paint_index": "1399",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5T441rsfhr9kYDl7h1c4_24bZtpMvmFC3Wvw_x5s-BtShawhxwptgKXn4vGLSLANkI-XMN2Qu4OsEG6lYK2M-OwtgPf2IMRzXio3yMY7yhptbxRAKIkq_bVhhaBb-OYO4AFQA"
+   },
+   {
+    "id": "skin-d9b9add3d4ae",
+    "name": "★ Водительские перчатки | Парчовые цветы",
+    "rarity": {
+     "id": "rarity_ancient",
+     "name": "экстраординарного типа",
+     "color": "#eb4b4b"
+    },
+    "paint_index": "1400",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5T441rsfhr9kYDl7h1c4_24bZtpMvmFC3Wvw_x5s-BtSha1mRIwti-6iIr9HifOOV5kFJJ5TeMK5xTsltSyM-m07wLW2Y4Uy32ohiJKuy9r4L1UWKAj-qGF3gzfcepq2gO2jDs"
+   },
+   {
+    "id": "skin-f9ff211df27d",
+    "name": "★ Водительские перчатки | Драконьи кулаки",
+    "rarity": {
+     "id": "rarity_ancient",
+     "name": "экстраординарного типа",
+     "color": "#eb4b4b"
+    },
+    "paint_index": "1401",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5T441rsfhr9kYDl7h1c4_24bZtpMvmFC3Wvxfx3t-5ncDqwlBEijC-AnrD1KCzPKhgkCZdwTeIL4ES5wdXjPrm251Pdi98QzST3jy0d6nxp4e5QAKsk_q3RkUifZohUdPsK"
+   },
+   {
+    "id": "skin-2d7a4c354277",
+    "name": "★ Водительские перчатки | Цветник",
+    "rarity": {
+     "id": "rarity_ancient",
+     "name": "экстраординарного типа",
+     "color": "#eb4b4b"
+    },
+    "paint_index": "1402",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5T441rsfhr9kYDl7h1c4_24bZtpMvmFC3WvxON0ou5gSyyhkBkYtTGKjYrrMhTTO1d8Zc4pEr9OrES-w9exZuzrsgyLi4lEzij2in9KvHpj6u9XU6J2_aGDjwzCY709t8YdZKHwRXCqB8U"
+   },
+   {
+    "id": "skin-25977544c37d",
+    "name": "★ Водительские перчатки | Наручные свитера",
+    "rarity": {
+     "id": "rarity_ancient",
+     "name": "экстраординарного типа",
+     "color": "#eb4b4b"
+    },
+    "paint_index": "1439",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5T441rsfhr9kYDl7h1c4_24bZtpMvmFC3WvyuB_pN5oXS6qmRgYtC-An4HGLSLANkI-CZJzROEM4xa7lYbgM7i07lOP3okXmCn4iypM7idt4udXU6p0rqHS3haBb-PCGCVNWw"
+   },
+   {
+    "id": "skin-c79f644ef9e1",
+    "name": "★ Водительские перчатки | Сливовое перо",
+    "rarity": {
+     "id": "rarity_ancient",
+     "name": "экстраординарного типа",
+     "color": "#eb4b4b"
+    },
+    "paint_index": "1412",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5T441rsfhr9kYDl7h1c4_24bZtpMvmFC3Wvzv1iouhqRxajgA83vzi6lob-KT-JawEjXMZyQuQMs0Xpl4fvMrvn4FOI2N5Dnn78jnxI5yZj5-tXWfEs8rqX0V_DSgKUxA"
+   },
+   {
+    "id": "skin-f31ff8147493",
+    "name": "★ Водительские перчатки | Сэйгайха",
+    "rarity": {
+     "id": "rarity_ancient",
+     "name": "экстраординарного типа",
+     "color": "#eb4b4b"
+    },
+    "paint_index": "1404",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5T441rsfhr9kYDl7h1c4_24bZtpMvmFC3Wv0u13vO1mXxa-kAkmvzGMmbD7LT7CAVp5Xco0W-dZuhe6wNDuP-q05g2NiYlFmSn5iS1N7yxj4LxUWPJx-6yCiFqUNOIjoc5UtEcI9GU"
+   },
+   {
+    "id": "skin-b1dcd2af898f",
+    "name": "★ Водительские перчатки | Погоня за волной",
+    "rarity": {
+     "id": "rarity_ancient",
+     "name": "экстраординарного типа",
+     "color": "#eb4b4b"
+    },
+    "paint_index": "1398",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5T441rsfhr9kYDl7h1c4_24bZtpMvmFC3Wv0ud6u95tXSi0mhMYpDWMjorGLSLANkI-ApsmQrFbtkPux4bgMuvg7gzWjI0Xnyz-23lI6i5s4bpWUqMl-6PQ2xaBb-Mdlpgj5g"
+   },
+   {
+    "id": "skin-7b77498783da",
+    "name": "★ Перчатки спецназа | Лаймовый поликамуфляж",
+    "rarity": {
+     "id": "rarity_ancient",
+     "name": "экстраординарного типа",
+     "color": "#eb4b4b"
+    },
+    "paint_index": "1413",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tk71ruQBH4jYLf-i5U-fe9V6NhL-aWMXSAxO1_se1gXD2MlB80py-EmZvGJjnCO1hPVssnHaMUtRTqwNK2Nrzr71aLi4sUzS_8iCJMuic54eoFVvVw-fGGiwySY7Q1t45DeqjW0uKN1w"
+   },
+   {
+    "id": "skin-1f8f2cadf55b",
+    "name": "★ Перчатки спецназа | Погоня за облаком",
+    "rarity": {
+     "id": "rarity_ancient",
+     "name": "экстраординарного типа",
+     "color": "#eb4b4b"
+    },
+    "paint_index": "1440",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tk71ruQBH4jYLf-i5U-fe9V6NhL-aWMXSAxO1_se1gXD2MkQ8mtDKLpY31NC74Ml93UtZuQe4L40bsl9HgM-Lr5lffgtgWnCT63H5O6XxqtehUVaIl-vCDjwiXMKp9v8dT8uAEag"
+   },
+   {
+    "id": "skin-6d087aad2621",
+    "name": "★ Перчатки спецназа | Чёрная книга",
+    "rarity": {
+     "id": "rarity_ancient",
+     "name": "экстраординарного типа",
+     "color": "#eb4b4b"
+    },
+    "paint_index": "1414",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tk71ruQBH4jYLf-i5U-fe9V6NhL-aWMXSAxO1_se1gXD2Mkg8mtTuMjobGIyfGPV1PVssnHaMUthC9l9e2Mei25wTajN5EziT_2CodvSxs5ugBWKp2rvDX2Q6QMOc8tI5DeqjzpbB7FA"
+   },
+   {
+    "id": "skin-cc0d5dff95fc",
+    "name": "★ Перчатки спецназа | Шоколадный «честерфилд»",
+    "rarity": {
+     "id": "rarity_ancient",
+     "name": "экстраординарного типа",
+     "color": "#eb4b4b"
+    },
+    "paint_index": "1415",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tk71ruQBH4jYLf-i5U-fe9V6NhL-aWMXSAxO1_se1gXD2MhAguvymAnrD7LSrENWl8U8UoAfkNu0Ttx4CxP-zr4wDbjN4XmX79j3xM7SdisbkLBPB0q6LWiwnHM7Zs_9Bdc2KEwswI"
+   },
+   {
+    "id": "skin-da1393aefb9c",
+    "name": "★ Перчатки спецназа | Подушкобойки",
+    "rarity": {
+     "id": "rarity_ancient",
+     "name": "экстраординарного типа",
+     "color": "#eb4b4b"
+    },
+    "paint_index": "1438",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tk71ruQBH4jYLf-i5U-fe9V6NhL-aWMXSAxO1_se1gXD2MhAguvymAnrDuKSLTO2l8U8UoAfkK5BKxkNyyZu7r4VGP3Y8UzSX_iC4av3trtbtWV_Vxq6SEh1mVN7c9_9Bdc6ulT-fJ"
+   },
+   {
+    "id": "skin-aba169232063",
+    "name": "★ Перчатки спецназа | Лучи солнца",
+    "rarity": {
+     "id": "rarity_ancient",
+     "name": "экстраординарного типа",
+     "color": "#eb4b4b"
+    },
+    "paint_index": "1416",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tk71ruQBH4jYLf-i5U-fe9V6NhL-aWMXSAxO1_se1gXD2MhggpsSiXiZvGMy7DAVp5Xco0W-VesRKwxtLvMbm07gLbiI1GmX33hywd7Hk45ewEAPIiqfXW2Q7FMLIjoc5U0NHpGGE"
+   },
+   {
+    "id": "skin-6977cd7028dd",
+    "name": "★ Перчатки спецназа | Великий вал",
+    "rarity": {
+     "id": "rarity_ancient",
+     "name": "экстраординарного типа",
+     "color": "#eb4b4b"
+    },
+    "paint_index": "1437",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tk71ruQBH4jYLf-i5U-fe9V6NhL-aWMXSAxO1_se1gXD2MghwxtgKHlpr8HifOOV5kFJJyFOVZuhC8l9XjNL-3tgHcg41HzHr4hntBuntpse0LUvZwr_bX3QjfcepqIIhMOUI"
+   },
+   {
+    "id": "skin-0f6327fef452",
+    "name": "★ Спортивные перчатки | Фиолетовый бисер",
+    "rarity": {
+     "id": "rarity_ancient",
+     "name": "экстраординарного типа",
+     "color": "#eb4b4b"
+    },
+    "paint_index": "1405",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tk5UvzWCL2kpn2-DFk6P6hfqFSM-CcHHOvw-t3tPZmXSKMkRQmvjKLnpzGMT7VLlp1Zc4pEr9OrBWxxofvNOLitQKPid5Hznr-3C9JvHtu4uxTVKMlqaPQilrAM7Fr6cQdZKHwBJ-GjQo"
+   },
+   {
+    "id": "skin-c747da872a60",
+    "name": "★ Спортивные перчатки | Мороз",
+    "rarity": {
+     "id": "rarity_ancient",
+     "name": "экстраординарного типа",
+     "color": "#eb4b4b"
+    },
+    "paint_index": "1406",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tk5UvzWCL2kpn2-DFk6P6hfqFSM-CcHHOvwu97v95-RienkA8YvzSCkpu3dXqfbA5zW5N0F-dcu0K8ldDnMuPk4wHdjN9EniWthn4av31v4eoHWL1lpPOyBkNpPQ"
+   },
+   {
+    "id": "skin-4a3cb425ea4e",
+    "name": "★ Спортивные перчатки | Пламя",
+    "rarity": {
+     "id": "rarity_ancient",
+     "name": "экстраординарного типа",
+     "color": "#eb4b4b"
+    },
+    "paint_index": "1407",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tk5UvzWCL2kpn2-DFk6P6hfqFSM-CcHHOvx-J3veR6cCahlBMgtgKJk4jxNWWXblAgDJUiTeJZtBHpktDuY7m2sQPf2YNAxXn5iysf6Cc_67oGA6Ah5OSJ2AmILwG6"
+   },
+   {
+    "id": "skin-1cd6adc6787e",
+    "name": "★ Спортивные перчатки | Кремовые завитки",
+    "rarity": {
+     "id": "rarity_ancient",
+     "name": "экстраординарного типа",
+     "color": "#eb4b4b"
+    },
+    "paint_index": "1408",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tk5UvzWCL2kpn2-DFk6P6hfqFSM-CcHHOv0ed4o_V7Rjm2qh8rsj6OpYPwJiPTcAdzW5V2E-4IsBnswNHuZbznsQfXg4NCny_4hnhOvS04suoDVvZx86zJz1aWnYsnB-o"
+   },
+   {
+    "id": "skin-01ecc031f210",
+    "name": "★ Спортивные перчатки | Багровый гонщик",
+    "rarity": {
+     "id": "rarity_ancient",
+     "name": "экстраординарного типа",
+     "color": "#eb4b4b"
+    },
+    "paint_index": "1409",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tk5UvzWCL2kpn2-DFk6P6hfqFSM-CcHHOv0-91tfNWXSy3qhEutDWR1I77dC7GbQ4kWZNwEOJY5xLtwYHuN7yz7lPe2YgTniz2jn5Nv3lj5O0cEf1yHxfMKhM"
+   },
+   {
+    "id": "skin-635fbb080d7c",
+    "name": "★ Спортивные перчатки | Неоновое насилие",
+    "rarity": {
+     "id": "rarity_ancient",
+     "name": "экстраординарного типа",
+     "color": "#eb4b4b"
+    },
+    "paint_index": "1410",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tk5UvzWCL2kpn2-DFk6P6hfqFSM-CcHHOv1et1uN5uXSi3nBgppwKHiIb-KT_4Ml93UtZuTOcLtUW8lNDvZL634FfYi4pCyiX5iXka6Htr4uhQVqt3_vfRiAzDZap9v8fuC2Vr0A"
+   },
+   {
+    "id": "skin-9ff0ea2301d4",
+    "name": "★ Спортивные перчатки | Оккультизм",
+    "rarity": {
+     "id": "rarity_ancient",
+     "name": "экстраординарного типа",
+     "color": "#eb4b4b"
+    },
+    "paint_index": "1417",
+    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Tk5UvzWCL2kpn2-DFk6P6hfqFSM-CcHHOv1-t6puR9cDu2kSIrujqNjsGody2XPQVzWZslEe5euxS_lYC0Yu7l4wLfj99MmCv4jXka6Slp6-4ET-N7rUuG7GIq"
+   }
+  ],
   "market_hash_name": "Sealed Dead Hand Terminal",
   "rental": false,
   "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJKz2lu_XsnXwtmkJjSU91dh8bj35VTqVBP4io_frnVk7P6he6FpbqHGCmSTk-hz5rZsHS3mwxgjsGjRytb7dC2VPwYlAschRrFbsBC4xNH5d7S1gfLQnNE",
