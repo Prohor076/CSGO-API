@@ -158514,7 +158514,7 @@
     "color": "#4b69ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/alrt_01_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/music_kits/alrt_01.91d38c0559f12cd45b2cf206989cc758c75655e7.png"
   },
   "99": {
    "name": "Набор музыки | Altare — Change My Mind",
@@ -158524,7 +158524,7 @@
     "color": "#4b69ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/altare_01_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/music_kits/altare_01.c06c0fde1220ed0f8d4f626149d3a881f0ffa300.png"
   },
   "100": {
    "name": "Набор музыки | borne — Give It To Me",
@@ -158534,7 +158534,7 @@
     "color": "#4b69ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/borne_01_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/music_kits/borne_01.ccdce1df1d5da7a392aa2df2390899d27844cb0a.png"
   },
   "101": {
    "name": "Набор музыки | Pirapus — EVERYNITE",
@@ -158544,7 +158544,7 @@
     "color": "#4b69ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/pirapus_01_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/music_kits/pirapus_01.7d45f00bdce59027d7bab82106fdd8f3a9fbb111.png"
   },
   "102": {
    "name": "Набор музыки | Repiet & Julia Kleijn — On And On",
@@ -158554,7 +158554,7 @@
     "color": "#4b69ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/repiet_01_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/music_kits/repiet_01.b0c8c7a7953db2d692b1132b49c5d6129498cac9.png"
   },
   "103": {
    "name": "Набор музыки | ShockOne — Voices",
@@ -158564,7 +158564,7 @@
     "color": "#4b69ff"
    },
    "marketable": true,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/shockone_01_png.png"
+   "image": "https://cdn.steamstatic.com/apps/730/icons/econ/music_kits/shockone_01.13bf87dcd7908378786692039ca3dd959d1b20b4.png"
   }
  },
  "keychains": {
