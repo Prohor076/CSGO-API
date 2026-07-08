@@ -163586,6 +163586,30 @@
   }
  },
  {
+  "id": "crate-5329",
+  "name": "Капсула с наклейками IEM Cologne Major 2026",
+  "description": null,
+  "def_index": "5329",
+  "type": "Sticker Capsule",
+  "first_sale_date": null,
+  "rarity": {
+   "id": "rarity_common",
+   "name": "базового класса",
+   "color": "#b0c3d9"
+  },
+  "contains": [],
+  "contains_rare": [],
+  "market_hash_name": "Cologne 2026 Sticker Capsule",
+  "rental": false,
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yeniY6Vly-oKmuguxDh7-kpnn8ycJv6D4V6d_JfSaGnTekboi4OM7TSziwEUm5GnTmd2oIC2UOg9yApp5RrYI4RHplofmYrjk5xue1dzxs7YNoQ",
+  "model_player": null,
+  "loot_list": null,
+  "original": {
+   "item_name": "#CSGO_crate_sticker_pack_cologne2026_all",
+   "image_inventory": "econ/tournaments/cologne2026/cologne2026_credits"
+  }
+ },
+ {
   "id": "crate-7003",
   "name": "Галерейный кейс",
   "description": null,
@@ -165835,6 +165859,421 @@
   "original": {
    "item_name": "#CSGO_crate_musickit_deluge_stattrak_capsule",
    "image_inventory": "econ/weapon_cases/crate_musickit_deluge_stattrak_capsule"
+  }
+ },
+ {
+  "id": "crate-7041",
+  "name": "Jackass Sticker Capsule",
+  "description": "This capsule contains a variety of stickers celebrating <i>jackass: best and last</i> and was released in July 2026.",
+  "def_index": "7041",
+  "type": "Sticker Capsule",
+  "first_sale_date": "2026-07-03",
+  "rarity": {
+   "id": "rarity_common",
+   "name": "базового класса",
+   "color": "#b0c3d9"
+  },
+  "contains": [
+   {
+    "id": "sticker-11196",
+    "name": "Airhorn",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "высшего класса",
+     "color": "#4b69ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_airhorn_png.png"
+   },
+   {
+    "id": "sticker-11197",
+    "name": "Assterisk",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "высшего класса",
+     "color": "#4b69ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_assterisk_png.png"
+   },
+   {
+    "id": "sticker-11198",
+    "name": "Big Red Rocket",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "высшего класса",
+     "color": "#4b69ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_big_red_rocket_png.png"
+   },
+   {
+    "id": "sticker-11199",
+    "name": "Boner Snap",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "высшего класса",
+     "color": "#4b69ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_boner_snap_png.png"
+   },
+   {
+    "id": "sticker-11200",
+    "name": "Censored",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "высшего класса",
+     "color": "#4b69ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_censored_png.png"
+   },
+   {
+    "id": "sticker-11201",
+    "name": "Explosives",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "высшего класса",
+     "color": "#4b69ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_explosives_png.png"
+   },
+   {
+    "id": "sticker-11202",
+    "name": "Golf Cart",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "высшего класса",
+     "color": "#4b69ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_golf_cart_png.png"
+   },
+   {
+    "id": "sticker-11203",
+    "name": "Gonna Leave A Mark",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "высшего класса",
+     "color": "#4b69ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_leave_a_mark_png.png"
+   },
+   {
+    "id": "sticker-11204",
+    "name": "Head In Hands",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "высшего класса",
+     "color": "#4b69ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_head_in_hands_png.png"
+   },
+   {
+    "id": "sticker-11205",
+    "name": "High Five!",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "высшего класса",
+     "color": "#4b69ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_high_five_png.png"
+   },
+   {
+    "id": "sticker-11206",
+    "name": "Jackass",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "высшего класса",
+     "color": "#4b69ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_jackass_png.png"
+   },
+   {
+    "id": "sticker-11207",
+    "name": "Partyboy",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "высшего класса",
+     "color": "#4b69ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_partyboy_png.png"
+   },
+   {
+    "id": "sticker-11208",
+    "name": "Radiograph",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "высшего класса",
+     "color": "#4b69ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_radiograph_png.png"
+   },
+   {
+    "id": "sticker-11209",
+    "name": "Rocket Skates",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "высшего класса",
+     "color": "#4b69ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_rocket_skates_png.png"
+   },
+   {
+    "id": "sticker-11210",
+    "name": "Skull Bunny",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "высшего класса",
+     "color": "#4b69ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_skull_bunny_png.png"
+   },
+   {
+    "id": "sticker-11211",
+    "name": "The Magic Trick",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "высшего класса",
+     "color": "#4b69ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_bull_png.png"
+   },
+   {
+    "id": "sticker-11212",
+    "name": "WARNING",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "высшего класса",
+     "color": "#4b69ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_warning_png.png"
+   },
+   {
+    "id": "sticker-11213",
+    "name": "ZZZAP!",
+    "rarity": {
+     "id": "rarity_rare",
+     "name": "высшего класса",
+     "color": "#4b69ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/paper_zzzap_png.png"
+   },
+   {
+    "id": "sticker-11214",
+    "name": "Airhorn (Glitter)",
+    "rarity": {
+     "id": "rarity_mythical",
+     "name": "примечательного типа",
+     "color": "#8847ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/glitter_airhorn_png.png"
+   },
+   {
+    "id": "sticker-11215",
+    "name": "Assterisk (Glitter)",
+    "rarity": {
+     "id": "rarity_mythical",
+     "name": "примечательного типа",
+     "color": "#8847ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/glitter_assterisk_png.png"
+   },
+   {
+    "id": "sticker-11216",
+    "name": "Big Red Rocket (Glitter)",
+    "rarity": {
+     "id": "rarity_mythical",
+     "name": "примечательного типа",
+     "color": "#8847ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/glitter_big_red_rocket_png.png"
+   },
+   {
+    "id": "sticker-11217",
+    "name": "Head In Hands (Glitter)",
+    "rarity": {
+     "id": "rarity_mythical",
+     "name": "примечательного типа",
+     "color": "#8847ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/glitter_head_in_hands_png.png"
+   },
+   {
+    "id": "sticker-11218",
+    "name": "High Five! (Glitter)",
+    "rarity": {
+     "id": "rarity_mythical",
+     "name": "примечательного типа",
+     "color": "#8847ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/glitter_high_five_png.png"
+   },
+   {
+    "id": "sticker-11219",
+    "name": "Skull Bunny (Glitter)",
+    "rarity": {
+     "id": "rarity_mythical",
+     "name": "примечательного типа",
+     "color": "#8847ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/glitter_skull_bunny_png.png"
+   },
+   {
+    "id": "sticker-11220",
+    "name": "The Magic Trick (Glitter)",
+    "rarity": {
+     "id": "rarity_mythical",
+     "name": "примечательного типа",
+     "color": "#8847ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/glitter_bull_png.png"
+   },
+   {
+    "id": "sticker-11221",
+    "name": "Boner Snap (Holo)",
+    "rarity": {
+     "id": "rarity_mythical",
+     "name": "примечательного типа",
+     "color": "#8847ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/holo_boner_snap_png.png"
+   },
+   {
+    "id": "sticker-11222",
+    "name": "Jackass (Holo)",
+    "rarity": {
+     "id": "rarity_mythical",
+     "name": "примечательного типа",
+     "color": "#8847ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/holo_jackass_png.png"
+   },
+   {
+    "id": "sticker-11223",
+    "name": "Gonna Leave A Mark (Holo)",
+    "rarity": {
+     "id": "rarity_mythical",
+     "name": "примечательного типа",
+     "color": "#8847ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/holo_leave_a_mark_png.png"
+   },
+   {
+    "id": "sticker-11225",
+    "name": "Radiograph (Holo)",
+    "rarity": {
+     "id": "rarity_mythical",
+     "name": "примечательного типа",
+     "color": "#8847ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/holo_radiograph_png.png"
+   },
+   {
+    "id": "sticker-11226",
+    "name": "Rocket Skates (Holo)",
+    "rarity": {
+     "id": "rarity_mythical",
+     "name": "примечательного типа",
+     "color": "#8847ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/holo_rocket_skates_png.png"
+   },
+   {
+    "id": "sticker-11227",
+    "name": "ZZZAP! (Holo)",
+    "rarity": {
+     "id": "rarity_mythical",
+     "name": "примечательного типа",
+     "color": "#8847ff"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/holo_zzzap_png.png"
+   },
+   {
+    "id": "sticker-11228",
+    "name": "Assterisk (Foil)",
+    "rarity": {
+     "id": "rarity_legendary",
+     "name": "экзотичного вида",
+     "color": "#d32ce6"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/foil_assterisk_png.png"
+   },
+   {
+    "id": "sticker-11229",
+    "name": "Censored (Foil)",
+    "rarity": {
+     "id": "rarity_legendary",
+     "name": "экзотичного вида",
+     "color": "#d32ce6"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/foil_censored_png.png"
+   },
+   {
+    "id": "sticker-11230",
+    "name": "Explosives (Foil)",
+    "rarity": {
+     "id": "rarity_legendary",
+     "name": "экзотичного вида",
+     "color": "#d32ce6"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/foil_explosives_png.png"
+   },
+   {
+    "id": "sticker-11231",
+    "name": "Radiograph (Foil)",
+    "rarity": {
+     "id": "rarity_legendary",
+     "name": "экзотичного вида",
+     "color": "#d32ce6"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/foil_radiograph_png.png"
+   },
+   {
+    "id": "sticker-11232",
+    "name": "WARNING (Foil)",
+    "rarity": {
+     "id": "rarity_legendary",
+     "name": "экзотичного вида",
+     "color": "#d32ce6"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/foil_warning_png.png"
+   },
+   {
+    "id": "sticker-11233",
+    "name": "Electric Avenue (Lenticular)",
+    "rarity": {
+     "id": "rarity_ancient",
+     "name": "экстраординарного типа",
+     "color": "#eb4b4b"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/lenticular_electric_avenue_png.png"
+   },
+   {
+    "id": "sticker-11224",
+    "name": "Partyboy (Lenticular)",
+    "rarity": {
+     "id": "rarity_ancient",
+     "name": "экстраординарного типа",
+     "color": "#eb4b4b"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/lenticular_partyboy_png.png"
+   },
+   {
+    "id": "sticker-11234",
+    "name": "Poo Cocktail Supreme (Lenticular)",
+    "rarity": {
+     "id": "rarity_ancient",
+     "name": "экстраординарного типа",
+     "color": "#eb4b4b"
+    },
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/jackass/lenticular_poo_cocktail_png.png"
+   }
+  ],
+  "contains_rare": [],
+  "market_hash_name": "Jackass Sticker Capsule",
+  "rental": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/weapon_cases/crate_sticker_pack_jackass_capsule_png.png",
+  "model_player": null,
+  "loot_list": null,
+  "original": {
+   "item_name": "CSGO_crate_sticker_pack_jackass_capsule",
+   "image_inventory": "econ/weapon_cases/crate_sticker_pack_jackass_capsule"
   }
  }
 ]
