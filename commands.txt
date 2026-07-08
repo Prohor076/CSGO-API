@@ -4,11 +4,11 @@ git pull origin main
 
 // Синхронизация кода с upstream (ByMykel/CSGO-API)
 // Автоматически: workflow sync-upstream.yml (понедельник 06:00 UTC) создаёт PR.
+// Синхронизируются только services/ и scripts/ — не package.json, update.js, group.js.
 // Вручную:
 git fetch upstream main
-git diff HEAD upstream/main -- services update.js group.js package.json
-git checkout upstream/main -- services update.js group.js package.json package-lock.json scripts
-// НЕ перезаписывать: constants.js (en+ru), .github/workflows/update-and-group.yml
+git diff HEAD upstream/main -- services scripts
+git checkout upstream/main -- services scripts
 git commit -m "chore: sync upstream code"
 git push origin main
 

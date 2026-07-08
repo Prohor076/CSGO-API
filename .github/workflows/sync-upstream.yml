@@ -31,7 +31,9 @@ jobs:
       - name: Detect upstream code changes
         id: detect
         run: |
-          SYNC_PATHS="services update.js group.js package.json package-lock.json scripts"
+          # Только services/ и scripts/ — не трогаем package.json (npm-скрипты форка),
+          # update.js/group.js (LANGUAGES_URL из constants.js), constants.js, workflows.
+          SYNC_PATHS="services scripts"
           changed=""
           for path in $SYNC_PATHS; do
             if ! git diff --quiet HEAD upstream/main -- "$path" 2>/dev/null; then
@@ -57,7 +59,7 @@ jobs:
           BRANCH="sync/upstream-$(date +%Y%m%d)"
           git checkout -b "$BRANCH"
 
-          for path in services update.js group.js package.json package-lock.json scripts; do
+          for path in services scripts; do
             if ! git diff --quiet HEAD upstream/main -- "$path" 2>/dev/null; then
               git checkout upstream/main -- "$path"
             fi
@@ -70,7 +72,9 @@ Synced paths: ${{ steps.detect.outputs.paths }}
 
 Preserves fork customizations:
 - constants.js (en + ru only)
-- .github/workflows/update-and-group.yml (cron, npm scripts)"
+- update.js / group.js (LANGUAGES_URL)
+- package.json (npm scripts)
+- .github/workflows/update-and-group.yml (cron)"
 
           git push origin "$BRANCH"
           echo "branch=$BRANCH" >> "$GITHUB_OUTPUT"
@@ -100,7 +104,9 @@ This PR syncs **code** changes from [ByMykel/CSGO-API](https://github.com/ByMyke
 
 **Not overwritten (fork customizations):**
 - `constants.js` — en + ru languages only
-- `.github/workflows/update-and-group.yml` — cron schedule, npm scripts
+- `update.js` / `group.js` — use `LANGUAGES_URL` from constants
+- `package.json` — fork npm scripts (`update-data`, `group-data`)
+- `.github/workflows/update-and-group.yml` — cron schedule
 - `public/api/**` — generated data
 
 After merge, CI runs `update-and-group` on push to validate the pipeline.
