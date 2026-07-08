@@ -1,0 +1,108 @@
+name: Sync upstream code
+
+on:
+  # Еженедельная проверка: подтянуть фиксы из ByMykel/CSGO-API (services/, скрипты).
+  schedule:
+    - cron: '0 6 * * 1'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: sync-upstream
+  cancel-in-progress: true
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      - name: Fetch upstream
+        run: |
+          git remote add upstream https://github.com/ByMykel/CSGO-API.git
+          git fetch upstream main
+
+      - name: Detect upstream code changes
+        id: detect
+        run: |
+          SYNC_PATHS="services update.js group.js package.json package-lock.json scripts"
+          changed=""
+          for path in $SYNC_PATHS; do
+            if ! git diff --quiet HEAD upstream/main -- "$path" 2>/dev/null; then
+              changed="${changed}${path} "
+            fi
+          done
+          if [ -n "$changed" ]; then
+            echo "has_changes=true" >> "$GITHUB_OUTPUT"
+            echo "paths=$changed" >> "$GITHUB_OUTPUT"
+            echo "Upstream changes detected in: $changed"
+          else
+            echo "has_changes=false" >> "$GITHUB_OUTPUT"
+            echo "No upstream code changes to sync"
+          fi
+
+      - name: Create sync branch and apply upstream changes
+        if: steps.detect.outputs.has_changes == 'true'
+        id: sync
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          BRANCH="sync/upstream-$(date +%Y%m%d)"
+          git checkout -b "$BRANCH"
+
+          for path in services update.js group.js package.json package-lock.json scripts; do
+            if ! git diff --quiet HEAD upstream/main -- "$path" 2>/dev/null; then
+              git checkout upstream/main -- "$path"
+            fi
+          done
+
+          git add -A
+          git commit -m "chore: sync code from ByMykel/CSGO-API upstream
+
+Synced paths: ${{ steps.detect.outputs.paths }}
+
+Preserves fork customizations:
+- constants.js (en + ru only)
+- .github/workflows/update-and-group.yml (cron, npm scripts)"
+
+          git push origin "$BRANCH"
+          echo "branch=$BRANCH" >> "$GITHUB_OUTPUT"
+
+      - name: Create pull request
+        if: steps.detect.outputs.has_changes == 'true'
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          BRANCH="${{ steps.sync.outputs.branch }}"
+          EXISTING=$(gh pr list --head "$BRANCH" --state open --json number --jq '.[0].number')
+          if [ -n "$EXISTING" ]; then
+            echo "Open PR already exists: #$EXISTING"
+            exit 0
+          fi
+
+          gh pr create \
+            --base main \
+            --head "$BRANCH" \
+            --title "chore: sync upstream code from ByMykel/CSGO-API" \
+            --body "$(cat <<'EOF'
+## Automatic upstream sync
+
+This PR syncs **code** changes from [ByMykel/CSGO-API](https://github.com/ByMykel/CSGO-API) `main`.
+
+**Synced paths:** `${{ steps.detect.outputs.paths }}`
+
+**Not overwritten (fork customizations):**
+- `constants.js` — en + ru languages only
+- `.github/workflows/update-and-group.yml` — cron schedule, npm scripts
+- `public/api/**` — generated data
+
+After merge, CI runs `update-and-group` on push to validate the pipeline.
+EOF
+)"
