@@ -25585,7 +25585,7 @@
     "name": "базового класса",
     "color": "#b0c3d9"
    },
-   "marketable": true,
+   "marketable": false,
    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yeniY6Vly-oKmuguxDh7-kpnn8ycJv6D4V6d_JfSaGnTekboi4OM7TSziwEUm5GnTmd2oIC2UOg9yApp5RrYI4RHplofmYrjk5xue1dzxs7YNoQ"
   },
   "5317": {
@@ -25595,7 +25595,7 @@
     "name": "базового класса",
     "color": "#b0c3d9"
    },
-   "marketable": true,
+   "marketable": false,
    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yeniY6Vly-oKmuguxDh7-kpnn8ycJv6D4V6d_JfSaGnTekboi4OM7TSziwEUm5GnTmd2oIC2UOg9yApp5RrYI4RHplofmYrjk5xue1dzxs7YNoQ"
   },
   "5318": {
@@ -25605,7 +25605,7 @@
     "name": "базового класса",
     "color": "#b0c3d9"
    },
-   "marketable": true,
+   "marketable": false,
    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yeniY6Vly-oKmuguxDh7-kpnn8ycJv6D4V6d_JfSaGnTekboi4OM7TSziwEUm5GnTmd2oIC2UOg9yApp5RrYI4RHplofmYrjk5xue1dzxs7YNoQ"
   },
   "5329": {
@@ -25615,7 +25615,7 @@
     "name": "базового класса",
     "color": "#b0c3d9"
    },
-   "marketable": true,
+   "marketable": false,
    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yeniY6Vly-oKmuguxDh7-kpnn8ycJv6D4V6d_JfSaGnTekboi4OM7TSziwEUm5GnTmd2oIC2UOg9yApp5RrYI4RHplofmYrjk5xue1dzxs7YNoQ"
   },
   "7003": {
@@ -30749,16 +30749,6 @@
    },
    "marketable": false,
    "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai2l-lQ8ndwMWvJjSa5EZh-4zx5Gb3QBHwnZ_vs3MDv_H3PPxscKTEXTSRk-t05udoSyy2kE1-422HyN-oeC6SOFclDMNuBbldgODXGpM"
-  },
-  "5180": {
-   "name": "Монета карты (УДАЛЕНО)",
-   "rarity": {
-    "id": "rarity_ancient",
-    "name": "экстраординарного типа",
-    "color": "#eb4b4b"
-   },
-   "marketable": false,
-   "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_transit_png.png"
   },
   "5209": {
    "name": "Пропуск зрителя StarLadder Budapest Major 2025",

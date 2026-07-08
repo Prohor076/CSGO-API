@@ -9383,25 +9383,6 @@
   }
  },
  {
-  "id": "collectible-5180",
-  "name": "Монета карты (УДАЛЕНО)",
-  "description": "Награда за работу над картой (УДАЛЕНО) для CS2",
-  "def_index": "5180",
-  "rarity": {
-   "id": "rarity_ancient",
-   "name": "экстраординарного типа",
-   "color": "#eb4b4b"
-  },
-  "type": "Map Contributor Coin",
-  "genuine": false,
-  "market_hash_name": null,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_transit_png.png",
-  "original": {
-   "item_name": "#CSGO_Collectible_MapTokenTransit",
-   "image_inventory": "econ/status_icons/maptoken_transit"
-  }
- },
- {
   "id": "collectible-5209",
   "name": "Пропуск зрителя StarLadder Budapest Major 2025",
   "description": "Это неоткрытый пропуск зрителя на чемпионат StarLadder Budapest Major 2025 по CS2. Открыв его, вы получите улучшаемую монету, полный доступ к внутриигровым прогнозам и испытаниям, меткам для чата Steam.tv и неограниченным граффити команды на время турнира.\\n\\nЧтобы улучшить монету, проходите её испытания. Вы получите по сувенирному жетону за каждое улучшение монеты.\\n\\n50% от продаж этого пропуска получают организации-участницы турнира.",

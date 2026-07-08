@@ -9383,25 +9383,6 @@
   }
  },
  {
-  "id": "collectible-5180",
-  "name": "(Redacted) Map Coin",
-  "description": "Commemorates authorship of the CS2 Map '(Redacted)'",
-  "def_index": "5180",
-  "rarity": {
-   "id": "rarity_ancient",
-   "name": "Extraordinary",
-   "color": "#eb4b4b"
-  },
-  "type": "Map Contributor Coin",
-  "genuine": false,
-  "market_hash_name": null,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/status_icons/maptoken_transit_png.png",
-  "original": {
-   "item_name": "#CSGO_Collectible_MapTokenTransit",
-   "image_inventory": "econ/status_icons/maptoken_transit"
-  }
- },
- {
   "id": "collectible-5209",
   "name": "Budapest 2025 Viewer Pass",
   "description": "This is a sealed StarLadder Budapest 2025 CS2 Major Championship viewer pass. Once this pass is unsealed, it will provide you with the Budapest 2025 Coin tracking your progress throughout the event, full access to the Budapest 2025 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and with unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Budapest 2025 Coin by completing coin challenges. Earn a Souvenir Token every time you upgrade your coin.\\n\\n50% of the proceeds from the sale of this pass support the participating organizations.",
