@@ -66,15 +66,10 @@ jobs:
           done
 
           git add -A
-          git commit -m "chore: sync code from ByMykel/CSGO-API upstream
-
-Synced paths: ${{ steps.detect.outputs.paths }}
-
-Preserves fork customizations:
-- constants.js (en + ru only)
-- update.js / group.js (LANGUAGES_URL)
-- package.json (npm scripts)
-- .github/workflows/update-and-group.yml (cron)"
+          git commit --trailer "Co-authored-by: Cursor <cursoragent@cursor.com>" \
+            -m "chore: sync code from ByMykel/CSGO-API upstream" \
+            -m "Synced paths: ${{ steps.detect.outputs.paths }}" \
+            -m "Preserves fork customizations: constants.js, update.js/group.js, package.json, update-and-group workflow"
 
           git push origin "$BRANCH"
           echo "branch=$BRANCH" >> "$GITHUB_OUTPUT"
