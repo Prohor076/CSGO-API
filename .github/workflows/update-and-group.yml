@@ -1,6 +1,8 @@
 name: Update and Group JSON API
 
 on:
+  push:
+    branches: [main]
   # Авто-запуск каждые 3 часа. Большинство запусков выйдут на быстром
   # manifest-check (update.js рано exit'ит если manifestIdUpdate.txt совпадает
   # с upstream — нет новых данных). Полноценная регенерация ~1-2 мин только
