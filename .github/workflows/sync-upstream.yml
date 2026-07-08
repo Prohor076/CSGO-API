@@ -78,6 +78,7 @@ jobs:
         if: steps.detect.outputs.has_changes == 'true'
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          SYNC_PATHS: ${{ steps.detect.outputs.paths }}
         run: |
           BRANCH="${{ steps.sync.outputs.branch }}"
           EXISTING=$(gh pr list --head "$BRANCH" --state open --json number --jq '.[0].number')
@@ -90,20 +91,5 @@ jobs:
             --base main \
             --head "$BRANCH" \
             --title "chore: sync upstream code from ByMykel/CSGO-API" \
-            --body "$(cat <<'EOF'
-## Automatic upstream sync
+            --body "Automatic upstream sync from ByMykel/CSGO-API main. Synced paths: $SYNC_PATHS. Fork keeps constants.js, update.js/group.js, package.json, and workflows."
 
-This PR syncs **code** changes from [ByMykel/CSGO-API](https://github.com/ByMykel/CSGO-API) `main`.
-
-**Synced paths:** `${{ steps.detect.outputs.paths }}`
-
-**Not overwritten (fork customizations):**
-- `constants.js` — en + ru languages only
-- `update.js` / `group.js` — use `LANGUAGES_URL` from constants
-- `package.json` — fork npm scripts (`update-data`, `group-data`)
-- `.github/workflows/update-and-group.yml` — cron schedule
-- `public/api/**` — generated data
-
-After merge, CI runs `update-and-group` on push to validate the pipeline.
-EOF
-)"
