@@ -390949,6 +390949,1437 @@
   }
  },
  {
+  "id": "sticker_slab-10314",
+  "name": "Sticker Slab | B'nana Strike",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "10314",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Fruits And Veggies Sticker Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | B'nana Strike",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/paper_nana_strike_1355_37_png.png",
+  "original": {
+   "name": "paper_nana_strike",
+   "image_inventory": "econ/stickers/community/fruits_veggies/paper_nana_strike_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10315",
+  "name": "Sticker Slab | Agent Kucumber",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "10315",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Fruits And Veggies Sticker Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Agent Kucumber",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/paper_agent_kucumber_1355_37_png.png",
+  "original": {
+   "name": "paper_agent_kucumber",
+   "image_inventory": "econ/stickers/community/fruits_veggies/paper_agent_kucumber_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10316",
+  "name": "Sticker Slab | Box Logo",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "10316",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Fruits And Veggies Sticker Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Box Logo",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/paper_box_logo_1355_37_png.png",
+  "original": {
+   "name": "paper_box_logo",
+   "image_inventory": "econ/stickers/community/fruits_veggies/paper_box_logo_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10317",
+  "name": "Sticker Slab | Cry Baby",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "10317",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Fruits And Veggies Sticker Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Cry Baby",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/paper_dont_cry_1355_37_png.png",
+  "original": {
+   "name": "paper_dont_cry",
+   "image_inventory": "econ/stickers/community/fruits_veggies/paper_dont_cry_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10318",
+  "name": "Sticker Slab | Fresh Cut",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "10318",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Fruits And Veggies Sticker Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Fresh Cut",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/paper_fresh_cut_1355_37_png.png",
+  "original": {
+   "name": "paper_fresh_cut",
+   "image_inventory": "econ/stickers/community/fruits_veggies/paper_fresh_cut_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10319",
+  "name": "Sticker Slab | From The Source",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "10319",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Fruits And Veggies Sticker Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | From The Source",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/paper_from_the_source_1355_37_png.png",
+  "original": {
+   "name": "paper_from_the_source",
+   "image_inventory": "econ/stickers/community/fruits_veggies/paper_from_the_source_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10320",
+  "name": "Sticker Slab | Heckler",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "10320",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Fruits And Veggies Sticker Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Heckler",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/paper_heckler_1355_37_png.png",
+  "original": {
+   "name": "paper_heckler",
+   "image_inventory": "econ/stickers/community/fruits_veggies/paper_heckler_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10321",
+  "name": "Sticker Slab | Lemin",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "10321",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Fruits And Veggies Sticker Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Lemin",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/paper_lemin_1355_37_png.png",
+  "original": {
+   "name": "paper_lemin",
+   "image_inventory": "econ/stickers/community/fruits_veggies/paper_lemin_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10322",
+  "name": "Sticker Slab | Peekle",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "10322",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Fruits And Veggies Sticker Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Peekle",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/paper_peekle_1355_37_png.png",
+  "original": {
+   "name": "paper_peekle",
+   "image_inventory": "econ/stickers/community/fruits_veggies/paper_peekle_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10323",
+  "name": "Sticker Slab | Pungent Comms",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "10323",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Fruits And Veggies Sticker Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Pungent Comms",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/paper_pungent_comms_1355_37_png.png",
+  "original": {
+   "name": "paper_pungent_comms",
+   "image_inventory": "econ/stickers/community/fruits_veggies/paper_pungent_comms_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10324",
+  "name": "Sticker Slab | Radish K",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "10324",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Fruits And Veggies Sticker Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Radish K",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/paper_radish_k_1355_37_png.png",
+  "original": {
+   "name": "paper_radish_k",
+   "image_inventory": "econ/stickers/community/fruits_veggies/paper_radish_k_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10325",
+  "name": "Sticker Slab | Scratch N' Whiff",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "10325",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Fruits And Veggies Sticker Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Scratch N' Whiff",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/paper_scratch_n_whiff_1355_37_png.png",
+  "original": {
+   "name": "paper_scratch_n_whiff",
+   "image_inventory": "econ/stickers/community/fruits_veggies/paper_scratch_n_whiff_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10326",
+  "name": "Sticker Slab | Aceberry (Glitter)",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "10326",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Remarkable",
+   "color": "#8847ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Fruits And Veggies Sticker Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Aceberry (Glitter)",
+  "effect": "Glitter",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/glitter_aceberry_1355_37_png.png",
+  "original": {
+   "name": "glitter_aceberry",
+   "image_inventory": "econ/stickers/community/fruits_veggies/glitter_aceberry_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10327",
+  "name": "Sticker Slab | Apple A Day (Glitter)",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "10327",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Remarkable",
+   "color": "#8847ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Fruits And Veggies Sticker Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Apple A Day (Glitter)",
+  "effect": "Glitter",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/glitter_apple_a_day_1355_37_png.png",
+  "original": {
+   "name": "glitter_apple_a_day",
+   "image_inventory": "econ/stickers/community/fruits_veggies/glitter_apple_a_day_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10328",
+  "name": "Sticker Slab | Juice Box (Holo)",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "10328",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Remarkable",
+   "color": "#8847ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Fruits And Veggies Sticker Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Juice Box (Holo)",
+  "effect": "Holo",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/holo_juice_box_1355_37_png.png",
+  "original": {
+   "name": "holo_juice_box",
+   "image_inventory": "econ/stickers/community/fruits_veggies/holo_juice_box_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10329",
+  "name": "Sticker Slab | Knife Streak (Holo)",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "10329",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Remarkable",
+   "color": "#8847ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Fruits And Veggies Sticker Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Knife Streak (Holo)",
+  "effect": "Holo",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/holo_knife_streak_1355_37_png.png",
+  "original": {
+   "name": "holo_knife_streak",
+   "image_inventory": "econ/stickers/community/fruits_veggies/holo_knife_streak_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10330",
+  "name": "Sticker Slab | From The Vine (Holo)",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "10330",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Remarkable",
+   "color": "#8847ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Fruits And Veggies Sticker Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | From The Vine (Holo)",
+  "effect": "Holo",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/holo_from_the_vine_1355_37_png.png",
+  "original": {
+   "name": "holo_from_the_vine",
+   "image_inventory": "econ/stickers/community/fruits_veggies/holo_from_the_vine_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10331",
+  "name": "Sticker Slab | Hot Pepper (Holo)",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "10331",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Remarkable",
+   "color": "#8847ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Fruits And Veggies Sticker Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Hot Pepper (Holo)",
+  "effect": "Holo",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/holo_hot_pepper_1355_37_png.png",
+  "original": {
+   "name": "holo_hot_pepper",
+   "image_inventory": "econ/stickers/community/fruits_veggies/holo_hot_pepper_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10332",
+  "name": "Sticker Slab | Quality Control (Holo)",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "10332",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Remarkable",
+   "color": "#8847ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Fruits And Veggies Sticker Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Quality Control (Holo)",
+  "effect": "Holo",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/holo_quality_control_1355_37_png.png",
+  "original": {
+   "name": "holo_quality_control",
+   "image_inventory": "econ/stickers/community/fruits_veggies/holo_quality_control_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10333",
+  "name": "Sticker Slab | Ultra Fruity (Holo)",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "10333",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Remarkable",
+   "color": "#8847ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Fruits And Veggies Sticker Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Ultra Fruity (Holo)",
+  "effect": "Holo",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/holo_ultra_fruity_1355_37_png.png",
+  "original": {
+   "name": "holo_ultra_fruity",
+   "image_inventory": "econ/stickers/community/fruits_veggies/holo_ultra_fruity_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10334",
+  "name": "Sticker Slab | B-A-N-A-N-A-S (Foil)",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "10334",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "Exotic",
+   "color": "#d32ce6"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Fruits And Veggies Sticker Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | B-A-N-A-N-A-S (Foil)",
+  "effect": "Foil",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/foil_banana_face_1355_37_png.png",
+  "original": {
+   "name": "foil_banana_face",
+   "image_inventory": "econ/stickers/community/fruits_veggies/foil_banana_face_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10335",
+  "name": "Sticker Slab | Bananart (Foil)",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "10335",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "Exotic",
+   "color": "#d32ce6"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Fruits And Veggies Sticker Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Bananart (Foil)",
+  "effect": "Foil",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/foil_modern_art_1355_37_png.png",
+  "original": {
+   "name": "foil_modern_art",
+   "image_inventory": "econ/stickers/community/fruits_veggies/foil_modern_art_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10336",
+  "name": "Sticker Slab | Dragon Fruit (Foil)",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "10336",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "Exotic",
+   "color": "#d32ce6"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Fruits And Veggies Sticker Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Dragon Fruit (Foil)",
+  "effect": "Foil",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/foil_dragon_fruit_1355_37_png.png",
+  "original": {
+   "name": "foil_dragon_fruit",
+   "image_inventory": "econ/stickers/community/fruits_veggies/foil_dragon_fruit_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10337",
+  "name": "Sticker Slab | Early Bird (Foil)",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "10337",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "Exotic",
+   "color": "#d32ce6"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Fruits And Veggies Sticker Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Early Bird (Foil)",
+  "effect": "Foil",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/foil_early_bird_1355_37_png.png",
+  "original": {
+   "name": "foil_early_bird",
+   "image_inventory": "econ/stickers/community/fruits_veggies/foil_early_bird_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10338",
+  "name": "Sticker Slab | Fruit Fly (Foil)",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "10338",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "Exotic",
+   "color": "#d32ce6"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Fruits And Veggies Sticker Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Fruit Fly (Foil)",
+  "effect": "Foil",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/foil_fruit_fly_1355_37_png.png",
+  "original": {
+   "name": "foil_fruit_fly",
+   "image_inventory": "econ/stickers/community/fruits_veggies/foil_fruit_fly_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10339",
+  "name": "Sticker Slab | Pineapple On Pizza (Lenticular)",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "10339",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Fruits And Veggies Sticker Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Pineapple On Pizza (Lenticular)",
+  "effect": "Lenticular",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/lenticular_pineapple_pizza_1355_37_png.png",
+  "original": {
+   "name": "lenticular_pineapple_pizza",
+   "image_inventory": "econ/stickers/community/fruits_veggies/lenticular_pineapple_pizza_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10340",
+  "name": "Sticker Slab | Pepper Gauge (Lenticular)",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "10340",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-fruits-veggies",
+    "name": "Fruits And Veggies Sticker Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_fruits_veggies_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Pepper Gauge (Lenticular)",
+  "effect": "Lenticular",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/fruits_veggies/lenticular_pepper_gauge_1355_37_png.png",
+  "original": {
+   "name": "lenticular_pepper_gauge",
+   "image_inventory": "econ/stickers/community/fruits_veggies/lenticular_pepper_gauge_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10341",
+  "name": "Sticker Slab | Blaze Breeze",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "10341",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Auto Racing Sticker Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Blaze Breeze",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_blaze_breeze_1355_37_png.png",
+  "original": {
+   "name": "paper_blaze_breeze",
+   "image_inventory": "econ/stickers/community/auto_racing/paper_blaze_breeze_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10342",
+  "name": "Sticker Slab | Bomb On Board",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "10342",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Auto Racing Sticker Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Bomb On Board",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_bomb_on_board_1355_37_png.png",
+  "original": {
+   "name": "paper_bomb_on_board",
+   "image_inventory": "econ/stickers/community/auto_racing/paper_bomb_on_board_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10343",
+  "name": "Sticker Slab | Boreal Blast",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "10343",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Auto Racing Sticker Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Boreal Blast",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_boreal_blast_1355_37_png.png",
+  "original": {
+   "name": "paper_boreal_blast",
+   "image_inventory": "econ/stickers/community/auto_racing/paper_boreal_blast_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10344",
+  "name": "Sticker Slab | Bunnyhop Hydraulics",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "10344",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Auto Racing Sticker Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Bunnyhop Hydraulics",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_bhop_hydraulics_1355_37_png.png",
+  "original": {
+   "name": "paper_bhop_hydraulics",
+   "image_inventory": "econ/stickers/community/auto_racing/paper_bhop_hydraulics_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10345",
+  "name": "Sticker Slab | Checkered Kukri",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "10345",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Auto Racing Sticker Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Checkered Kukri",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_racing_flag_1355_37_png.png",
+  "original": {
+   "name": "paper_racing_flag",
+   "image_inventory": "econ/stickers/community/auto_racing/paper_racing_flag_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10346",
+  "name": "Sticker Slab | Defusal Sprint",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "10346",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Auto Racing Sticker Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Defusal Sprint",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_defusal_sprint_1355_37_png.png",
+  "original": {
+   "name": "paper_defusal_sprint",
+   "image_inventory": "econ/stickers/community/auto_racing/paper_defusal_sprint_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10347",
+  "name": "Sticker Slab | Killometer",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "10347",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Auto Racing Sticker Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Killometer",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_killometer_1355_37_png.png",
+  "original": {
+   "name": "paper_killometer",
+   "image_inventory": "econ/stickers/community/auto_racing/paper_killometer_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10348",
+  "name": "Sticker Slab | Roentgen Raceclub",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "10348",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Auto Racing Sticker Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Roentgen Raceclub",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_roentgen_raceclub_1355_37_png.png",
+  "original": {
+   "name": "paper_roentgen_raceclub",
+   "image_inventory": "econ/stickers/community/auto_racing/paper_roentgen_raceclub_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10349",
+  "name": "Sticker Slab | Run Boost Lift Kits",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "10349",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Auto Racing Sticker Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Run Boost Lift Kits",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_run_boost_1355_37_png.png",
+  "original": {
+   "name": "paper_run_boost",
+   "image_inventory": "econ/stickers/community/auto_racing/paper_run_boost_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10350",
+  "name": "Sticker Slab | Safari Shine",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "10350",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Auto Racing Sticker Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Safari Shine",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_safari_shine_1355_37_png.png",
+  "original": {
+   "name": "paper_safari_shine",
+   "image_inventory": "econ/stickers/community/auto_racing/paper_safari_shine_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10351",
+  "name": "Sticker Slab | Sand Dune Baja Tour",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "10351",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Auto Racing Sticker Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Sand Dune Baja Tour",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_sand_dune_baja_tour_1355_37_png.png",
+  "original": {
+   "name": "paper_sand_dune_baja_tour",
+   "image_inventory": "econ/stickers/community/auto_racing/paper_sand_dune_baja_tour_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10353",
+  "name": "Sticker Slab | W Performance Tires",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "10353",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Auto Racing Sticker Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | W Performance Tires",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_w_tires_1355_37_png.png",
+  "original": {
+   "name": "paper_w_tires",
+   "image_inventory": "econ/stickers/community/auto_racing/paper_w_tires_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10354",
+  "name": "Sticker Slab | Cone Zone (Holo)",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "10354",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Remarkable",
+   "color": "#8847ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Auto Racing Sticker Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Cone Zone (Holo)",
+  "effect": "Holo",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/holo_cone_zone_1355_37_png.png",
+  "original": {
+   "name": "holo_cone_zone",
+   "image_inventory": "econ/stickers/community/auto_racing/holo_cone_zone_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10355",
+  "name": "Sticker Slab | Engine Start (Holo)",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "10355",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Remarkable",
+   "color": "#8847ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Auto Racing Sticker Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Engine Start (Holo)",
+  "effect": "Holo",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/holo_engine_start_1355_37_png.png",
+  "original": {
+   "name": "holo_engine_start",
+   "image_inventory": "econ/stickers/community/auto_racing/holo_engine_start_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10356",
+  "name": "Sticker Slab | First Lap (Holo)",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "10356",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Remarkable",
+   "color": "#8847ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Auto Racing Sticker Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | First Lap (Holo)",
+  "effect": "Holo",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/holo_first_lap_1355_37_png.png",
+  "original": {
+   "name": "holo_first_lap",
+   "image_inventory": "econ/stickers/community/auto_racing/holo_first_lap_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10357",
+  "name": "Sticker Slab | Neo-Hold (Holo)",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "10357",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Remarkable",
+   "color": "#8847ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Auto Racing Sticker Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Neo-Hold (Holo)",
+  "effect": "Holo",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/holo_neo_hold_1355_37_png.png",
+  "original": {
+   "name": "holo_neo_hold",
+   "image_inventory": "econ/stickers/community/auto_racing/holo_neo_hold_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10358",
+  "name": "Sticker Slab | Neo-Rush (Holo)",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "10358",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Remarkable",
+   "color": "#8847ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Auto Racing Sticker Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Neo-Rush (Holo)",
+  "effect": "Holo",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/holo_neo_rush_1355_37_png.png",
+  "original": {
+   "name": "holo_neo_rush",
+   "image_inventory": "econ/stickers/community/auto_racing/holo_neo_rush_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10359",
+  "name": "Sticker Slab | Safety First (Holo)",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "10359",
+  "rarity": {
+   "id": "rarity_mythical",
+   "name": "Remarkable",
+   "color": "#8847ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Auto Racing Sticker Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Safety First (Holo)",
+  "effect": "Holo",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/holo_safety_first_1355_37_png.png",
+  "original": {
+   "name": "holo_safety_first",
+   "image_inventory": "econ/stickers/community/auto_racing/holo_safety_first_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10360",
+  "name": "Sticker Slab | Eco Mode (Foil)",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "10360",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "Exotic",
+   "color": "#d32ce6"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Auto Racing Sticker Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Eco Mode (Foil)",
+  "effect": "Foil",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/foil_eco_mode_1355_37_png.png",
+  "original": {
+   "name": "foil_eco_mode",
+   "image_inventory": "econ/stickers/community/auto_racing/foil_eco_mode_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10361",
+  "name": "Sticker Slab | Lucky Charms (Foil)",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "10361",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "Exotic",
+   "color": "#d32ce6"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Auto Racing Sticker Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Lucky Charms (Foil)",
+  "effect": "Foil",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/foil_lucky_charms_1355_37_png.png",
+  "original": {
+   "name": "foil_lucky_charms",
+   "image_inventory": "econ/stickers/community/auto_racing/foil_lucky_charms_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10363",
+  "name": "Sticker Slab | Turbo Peek (Foil)",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "10363",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "Exotic",
+   "color": "#d32ce6"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Auto Racing Sticker Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Turbo Peek (Foil)",
+  "effect": "Foil",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/foil_turbo_peek_1355_37_png.png",
+  "original": {
+   "name": "foil_turbo_peek",
+   "image_inventory": "econ/stickers/community/auto_racing/foil_turbo_peek_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10364",
+  "name": "Sticker Slab | Sniper Ahead (Foil)",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "10364",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "Exotic",
+   "color": "#d32ce6"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Auto Racing Sticker Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Sniper Ahead (Foil)",
+  "effect": "Foil",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/foil_watch_sniper_1355_37_png.png",
+  "original": {
+   "name": "foil_watch_sniper",
+   "image_inventory": "econ/stickers/community/auto_racing/foil_watch_sniper_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10365",
+  "name": "Sticker Slab | Burnout (Lenticular)",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "10365",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Auto Racing Sticker Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Burnout (Lenticular)",
+  "effect": "Lenticular",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/lenticular_burnout_1355_37_png.png",
+  "original": {
+   "name": "lenticular_burnout",
+   "image_inventory": "econ/stickers/community/auto_racing/lenticular_burnout_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10366",
+  "name": "Sticker Slab | Digital Dashboard (Lenticular)",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "10366",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Auto Racing Sticker Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Digital Dashboard (Lenticular)",
+  "effect": "Lenticular",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/lenticular_digital_dashboard_1355_37_png.png",
+  "original": {
+   "name": "lenticular_digital_dashboard",
+   "image_inventory": "econ/stickers/community/auto_racing/lenticular_digital_dashboard_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10367",
+  "name": "Sticker Slab | Handheld (Lenticular)",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "10367",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Auto Racing Sticker Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Handheld (Lenticular)",
+  "effect": "Lenticular",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/lenticular_handheld_1355_37_png.png",
+  "original": {
+   "name": "lenticular_handheld",
+   "image_inventory": "econ/stickers/community/auto_racing/lenticular_handheld_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-10368",
+  "name": "Sticker Slab | NITRO! (Lenticular)",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "10368",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Auto Racing Sticker Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | NITRO! (Lenticular)",
+  "effect": "Lenticular",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/lenticular_nitro_1355_37_png.png",
+  "original": {
+   "name": "lenticular_nitro",
+   "image_inventory": "econ/stickers/community/auto_racing/lenticular_nitro_1355_37"
+  }
+ },
+ {
   "id": "sticker_slab-10369",
   "name": "Sticker Slab | Vitality | Cologne 2026",
   "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
@@ -427946,6 +429377,60 @@
   "original": {
    "name": "cologne2026_signature_kyousuke_gold_champion",
    "image_inventory": "econ/stickers/cologne2026/sig_kyousuke_champion_gold_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-11194",
+  "name": "Sticker Slab | Please Be Patient",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "11194",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "High Grade",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Auto Racing Sticker Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Please Be Patient",
+  "effect": "Other",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/paper_be_patient_1355_37_png.png",
+  "original": {
+   "name": "paper_be_patient",
+   "image_inventory": "econ/stickers/community/auto_racing/paper_be_patient_1355_37"
+  }
+ },
+ {
+  "id": "sticker_slab-11195",
+  "name": "Sticker Slab | Born To Peek (Foil)",
+  "description": "The sticker is safely sealed in this slab. You can return the sticker to your inventory at any time by cracking open and discarding this slab.<br><br>This charm can be attached to any weapon you own. Each attached charm can be detached by using a Charm Detachment. Detached charms will be returned to your inventory.",
+  "def_index": "11195",
+  "rarity": {
+   "id": "rarity_legendary",
+   "name": "Exotic",
+   "color": "#d32ce6"
+  },
+  "crates": [],
+  "collections": [
+   {
+    "id": "collection-set-auto-racing",
+    "name": "Auto Racing Sticker Collection",
+    "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/set_icons/set_auto_racing_png.png"
+   }
+  ],
+  "type": "Other",
+  "market_hash_name": "Sticker Slab | Born To Peek (Foil)",
+  "effect": "Foil",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/community/auto_racing/foil_born_to_peek_1355_37_png.png",
+  "original": {
+   "name": "foil_born_to_peek",
+   "image_inventory": "econ/stickers/community/auto_racing/foil_born_to_peek_1355_37"
   }
  },
  {
