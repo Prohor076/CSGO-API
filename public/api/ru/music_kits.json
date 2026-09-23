@@ -3400,5 +3400,41 @@
    "name": "shockone_01",
    "image_inventory": "econ/music_kits/shockone_01"
   }
+ },
+ {
+  "id": "music_kit-104",
+  "name": "Music Kit | Starjunk 95, Industrial Sunset Memories",
+  "description": "Этот набор музыки заменит всё музыкальное сопровождение в игре, и им можно поделиться с любым игроком на сервере. Также он включает гимн лучшего игрока, который проигрывается для всех в матче, если вы получили награду самого ценного игрока.\\n\\nМузыкальный набор заменяет следующую музыку:\\n- Главное меню\\n- Конец и начало раунда\\n- Задача карты\\n- Десятисекундное предупреждение\\n- Камера после смерти<br/><br/>Experience a music kit from the grooviest station in the galaxy, featuring the newest sounds of today drenched with vintage nostalgia of yesterday. This is Starjunk 95.",
+  "def_index": "104",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "Music Kit | Starjunk 95, Industrial Sunset Memories",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/starjunk95_01_png.png",
+  "original": {
+   "name": "starjunk95_01",
+   "image_inventory": "econ/music_kits/starjunk95_01"
+  }
+ },
+ {
+  "id": "music_kit-104_st",
+  "name": "StatTrak™ Music Kit | Starjunk 95, Industrial Sunset Memories",
+  "description": "<span style='color:#99ccff;'>На этом предмете используется технология StatTrak™, которая отслеживает определённые показатели владельца.</span><br/><br/><span style='color:#cf6a32;'>Этот предмет отслеживает количество наград СЦИ в официальных соревновательных играх.</span><br/><br/>Этот набор музыки заменит всё музыкальное сопровождение в игре, и им можно поделиться с любым игроком на сервере. Также он включает гимн лучшего игрока, который проигрывается для всех в матче, если вы получили награду самого ценного игрока.\\n\\nМузыкальный набор заменяет следующую музыку:\\n- Главное меню\\n- Конец и начало раунда\\n- Задача карты\\n- Десятисекундное предупреждение\\n- Камера после смерти<br/><br/>Experience a music kit from the grooviest station in the galaxy, featuring the newest sounds of today drenched with vintage nostalgia of yesterday. This is Starjunk 95.",
+  "def_index": "104",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "StatTrak™ Music Kit | Starjunk 95, Industrial Sunset Memories",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/starjunk95_01_png.png",
+  "original": {
+   "name": "starjunk95_01",
+   "image_inventory": "econ/music_kits/starjunk95_01"
+  }
  }
 ]
