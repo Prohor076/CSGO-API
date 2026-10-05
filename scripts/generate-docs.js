@@ -157,16 +157,42 @@ function getType(value) {
     return typeof value;
 }
 
-// Function to analyze object structure
-function analyzeStructure(obj, depth = 0, maxDepth = 2) {
-    const fields = [];
+// Walks every item so fields that are null or missing on the first item still get the right type
+function collectFields(items) {
+    const keys = [];
+    const info = {};
 
-    if (depth > maxDepth) {
-        return fields;
+    for (const item of items) {
+        let previous = null;
+
+        for (const [key, value] of Object.entries(item)) {
+            if (!(key in info)) {
+                // Keep optional fields next to the field they follow in the item
+                keys.splice(previous === null ? 0 : keys.indexOf(previous) + 1, 0, key);
+                info[key] = { types: new Set(), nullable: false, count: 0 };
+            }
+
+            info[key].count++;
+            if (value === null) info[key].nullable = true;
+            else info[key].types.add(getType(value));
+
+            previous = key;
+        }
     }
 
-    for (const [key, value] of Object.entries(obj)) {
-        const type = getType(value);
+    return keys.map(key => ({
+        key,
+        types: [...info[key].types],
+        nullable: info[key].nullable,
+        optional: info[key].count < items.length,
+    }));
+}
+
+// Function to analyze object structure
+function analyzeStructure(items) {
+    const fields = [];
+
+    for (const { key, types, nullable, optional } of collectFields(items)) {
         let description = "";
 
         // Generate description based on key name
@@ -200,29 +226,37 @@ function analyzeStructure(obj, depth = 0, maxDepth = 2) {
         else if (key === "thumbnail") description = "Thumbnail image URL";
         else if (key === "rental") description = "Whether it's a rental";
         else if (key === "first_sale_date") description = "First sale date";
+        else if (key === "release_date")
+            description = "Release date, can differ from the first_sale_date of the linked crate";
         else if (key === "contains") description = "Items that can be obtained";
         else if (key === "contains_rare") description = "Rare items (knives, etc.)";
         else if (key === "skin_id") description = "Reference to grouped skin";
         else if (key === "wear") description = "Specific wear condition";
         else if (key === "style") description = "Finish style information";
         else if (key === "original") description = "Original item data";
+        else if (key === "tint") description = "Graffiti tint with hex color";
+        else if (key === "color_index") description = "Graffiti tint index";
+        else if (key === "icon_base") description = "Keychain family";
+        else if (key === "phase") description = "Doppler phase";
+        else if (key === "special_notes")
+            description = "Interesting facts about the item, each with a source link";
+        else if (key === "player") description = "Player information";
+        else if (key === "premier_season") description = "Premier season number";
+        else if (key === "loot_list") description = "Loot list information";
+        else if (key === "paint_index") description = "Paint kit index";
         else description = `${key.replace(/_/g, " ")}`;
 
-        // Handle nullable types
-        let typeStr = type;
-        if (value === null && obj[key] === null) {
-            // Check if other objects have this field as non-null
-            typeStr = "string|null";
-        } else if (value === null) {
-            typeStr = `${getType(obj[key])}|null`;
-        }
+        // Fields that are always null have no other type to show, assume string
+        let typeStr = (types.length > 0 ? types : ["string"]).join("|");
+        if (nullable) typeStr += "|null";
+        if (optional) typeStr += ", optional";
 
         fields.push({
             key,
             type: typeStr,
             description,
-            isObject: type === "object" && !Array.isArray(value) && value !== null,
-            isArray: type === "array",
+            isObject: types.includes("object"),
+            isArray: types.includes("array"),
         });
     }
 
@@ -230,7 +264,7 @@ function analyzeStructure(obj, depth = 0, maxDepth = 2) {
 }
 
 // Function to generate Response Structure HTML
-function generateResponseStructure(sampleObject, isObject = false, isInventory = false) {
+function generateResponseStructure(items, isObject = false, isInventory = false) {
     if (isInventory) {
         return `
                             <div class="structure-item">
@@ -324,7 +358,7 @@ function generateResponseStructure(sampleObject, isObject = false, isInventory =
                             </div>`;
     }
 
-    const fields = analyzeStructure(sampleObject);
+    const fields = analyzeStructure(items);
 
     let html = `
                             <div class="structure-item">
@@ -333,7 +367,7 @@ function generateResponseStructure(sampleObject, isObject = false, isInventory =
 
     fields.forEach(field => {
         // Extract base type for class (handle cases like "string|null")
-        const baseType = field.type.split("|")[0].split("[")[0];
+        const baseType = field.type.split(/[|,]/)[0].split("[")[0];
         html += `
                             <div class="structure-item ml-4">
                                 <span class="structure-key">${field.key}</span>
@@ -405,30 +439,15 @@ function generateDocs() {
             const jsonContent = fs.readFileSync(jsonPath, "utf8");
             const data = JSON.parse(jsonContent);
 
-            let sampleObject;
-            if (endpoint.isInventory) {
-                sampleObject = data;
-            } else if (endpoint.isObject) {
-                // For objects, get the first value
-                const keys = Object.keys(data);
-                if (keys.length > 0) {
-                    sampleObject = data[keys[0]];
-                } else {
-                    console.warn(`Warning: ${endpoint.id} is empty, skipping`);
-                    return;
-                }
-            } else {
-                // For arrays, get the first element
-                if (Array.isArray(data) && data.length > 0) {
-                    sampleObject = data[0];
-                } else {
-                    console.warn(`Warning: ${endpoint.id} is empty, skipping`);
-                    return;
-                }
+            // Arrays are analyzed item by item. Objects and inventory have a fixed structure description.
+            const items = Array.isArray(data) ? data : Object.values(data);
+            if (items.length === 0) {
+                console.warn(`Warning: ${endpoint.id} is empty, skipping`);
+                return;
             }
 
             const responseStructureHtml = generateResponseStructure(
-                sampleObject,
+                items,
                 endpoint.isObject,
                 endpoint.isInventory
             );
