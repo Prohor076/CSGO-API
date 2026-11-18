@@ -11526,6 +11526,196 @@
   }
  },
  {
+  "id": "collectible-5410",
+  "name": "Singapore 2026 Viewer Pass",
+  "description": "This is a sealed PGL Singapore 2026 CS2 Major Championship viewer pass. Once this pass is unsealed, it will provide you with the Singapore 2026 Coin tracking your progress throughout the event, full access to the Singapore 2026 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and with unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Singapore 2026 Coin by completing coin challenges. Earn 300 Singapore 2026 Tokens every time you upgrade your coin.\\n\\n50% of the proceeds from the sale of this pass support the participating players and organizations.",
+  "def_index": "5410",
+  "rarity": {
+   "id": "rarity_common",
+   "name": "Base Grade",
+   "color": "#b0c3d9"
+  },
+  "type": "Tournament Pass",
+  "genuine": false,
+  "market_hash_name": "Singapore 2026 Viewer Pass",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/singapore2026/singapore2026_pass_png.png",
+  "original": {
+   "item_name": "#CSGO_TournamentPass_singapore2026",
+   "image_inventory": "econ/tournaments/singapore2026/singapore2026_pass"
+  }
+ },
+ {
+  "id": "collectible-5411",
+  "name": "Singapore 2026 Viewer Pass + 900 Tokens",
+  "description": "This is a sealed PGL Singapore 2026 CS2 Major Championship viewer pass. Once this pass is unsealed, it will provide you with the Singapore 2026 Coin tracking your progress throughout the event, full access to the Singapore 2026 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and with unlimited graffiti opportunities in-game for the duration of the event.\\n\\nYou will upgrade your Singapore 2026 Coin by completing the coin challenges. Earn 300 Singapore 2026 Tokens every time you upgrade your Coin.\\n\\nThis viewer pass will pre-activate your Singapore 2026 Coin with 900 Singapore 2026 Tokens.\\n\\n50% of the proceeds from the sale of this pass support the participating players and organizations.",
+  "def_index": "5411",
+  "rarity": {
+   "id": "rarity_common",
+   "name": "Base Grade",
+   "color": "#b0c3d9"
+  },
+  "type": "Tournament Pass",
+  "genuine": false,
+  "market_hash_name": "Singapore 2026 Viewer Pass + 900 Tokens",
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/singapore2026/singapore2026_pass_pack_png.png",
+  "original": {
+   "item_name": "#CSGO_TournamentPass_singapore2026_pack",
+   "image_inventory": "econ/tournaments/singapore2026/singapore2026_pass_pack"
+  }
+ },
+ {
+  "id": "collectible-5412",
+  "name": "Singapore 2026 Coin",
+  "description": "This is a commemorative PGL Singapore 2026 CS2 Major Championship Coin which tracks your progress throughout the event, provides full access to the Singapore 2026 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Singapore 2026 Coin by completing coin challenges. Earn 300 Singapore 2026 Tokens every time you upgrade your coin.",
+  "def_index": "5412",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "type": "Pick'Em Coin",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/singapore2026/singapore2026_coin_bronze_png.png",
+  "original": {
+   "item_name": "#CSGO_TournamentJournal_singapore2026",
+   "image_inventory": "econ/tournaments/singapore2026/singapore2026_coin_bronze"
+  }
+ },
+ {
+  "id": "collectible-5413",
+  "name": "Singapore 2026 Silver Coin",
+  "description": "This is a commemorative PGL Singapore 2026 CS2 Major Championship Coin which tracks your progress throughout the event, provides full access to the Singapore 2026 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Singapore 2026 Coin by completing coin challenges. Earn 300 Singapore 2026 Tokens every time you upgrade your coin.",
+  "def_index": "5413",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "type": "Pick'Em Coin",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/singapore2026/singapore2026_coin_silver_png.png",
+  "original": {
+   "item_name": "#CSGO_TournamentJournal_singapore2026_Silver",
+   "image_inventory": "econ/tournaments/singapore2026/singapore2026_coin_silver"
+  }
+ },
+ {
+  "id": "collectible-5414",
+  "name": "Singapore 2026 Gold Coin",
+  "description": "This is a commemorative PGL Singapore 2026 CS2 Major Championship Coin which tracks your progress throughout the event, provides full access to the Singapore 2026 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Singapore 2026 Coin by completing coin challenges. Earn 300 Singapore 2026 Tokens every time you upgrade your coin.",
+  "def_index": "5414",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "type": "Pick'Em Coin",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/singapore2026/singapore2026_coin_gold_png.png",
+  "original": {
+   "item_name": "#CSGO_TournamentJournal_singapore2026_Gold",
+   "image_inventory": "econ/tournaments/singapore2026/singapore2026_coin_gold"
+  }
+ },
+ {
+  "id": "collectible-5415",
+  "name": "Singapore 2026 Diamond Coin",
+  "description": "This is a commemorative PGL Singapore 2026 CS2 Major Championship Coin which tracks your progress throughout the event, provides full access to the Singapore 2026 Pick'Em Challenge, Steam.tv chat flairs, coin challenges, and unlimited graffiti opportunities in-game for the duration of the event.\\n\\nUpgrade your Singapore 2026 Coin by completing coin challenges. Earn 300 Singapore 2026 Tokens every time you upgrade your coin.",
+  "def_index": "5415",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "type": "Pick'Em Coin",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/singapore2026/singapore2026_coin_crystal_png.png",
+  "original": {
+   "item_name": "#CSGO_TournamentJournal_singapore2026_Crystal",
+   "image_inventory": "econ/tournaments/singapore2026/singapore2026_coin_crystal"
+  }
+ },
+ {
+  "id": "collectible-5419",
+  "name": "Champion at PGL Singapore 2026",
+  "description": "This championship trophy was awarded to the Champion at the PGL Singapore 2026 CS2 Major Championship.",
+  "def_index": "5419",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "type": "Tournament Finalist Trophy",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai2l-lQ8ndwMWvJjSD91ll_J7L6Uq1fh75n5vw9C1V_Lyobv0_IabEDDfDlLgis7Q7TXuylE1-tTvSmduodHjGOwElAsEiQu9crFDmxSMnd7Jc",
+  "original": {
+   "item_name": "#CSGO_CollectibleCoin_singapore2026_Champion",
+   "image_inventory": "econ/status_icons/trophy_cs2_champions"
+  }
+ },
+ {
+  "id": "collectible-5420",
+  "name": "Finalist at PGL Singapore 2026",
+  "description": "This championship trophy was awarded to the Finalist at the PGL Singapore 2026 CS2 Major Championship.",
+  "def_index": "5420",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "type": "Tournament Finalist Trophy",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai2l-lQ8ndwMWvJjSD91ll_J7L6Uq1fhv4kJfs9DFP_Lysa_w4JqGQDWaVkOp36bM4F3-1lEx1sG_XzNqtcn7DaFIhA5AiRuANrFDmxWMFZezK",
+  "original": {
+   "item_name": "#CSGO_CollectibleCoin_singapore2026_Finalist",
+   "image_inventory": "econ/status_icons/trophy_cs2_finalists"
+  }
+ },
+ {
+  "id": "collectible-5421",
+  "name": "Semifinalist at PGL Singapore 2026",
+  "description": "This championship trophy was awarded to the Semifinalist at the PGL Singapore 2026 CS2 Major Championship.",
+  "def_index": "5421",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "type": "Tournament Finalist Trophy",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai2l-lQ8ndwMWvJjSD91ll_J7L6Uq1fhv4kJfs9DFP_Lysa_w4JqGQDWaVkOp36bM4F3-1lEx1sG_XzNqtcn7DaFIhA5AiRuANrFDmxWMFZezK",
+  "original": {
+   "item_name": "#CSGO_CollectibleCoin_singapore2026_Semifinalist",
+   "image_inventory": "econ/status_icons/trophy_cs2_finalists"
+  }
+ },
+ {
+  "id": "collectible-5422",
+  "name": "Quarterfinalist at PGL Singapore 2026",
+  "description": "This championship trophy was awarded to the Quarterfinalist at the PGL Singapore 2026 CS2 Major Championship.",
+  "def_index": "5422",
+  "rarity": {
+   "id": "rarity_ancient",
+   "name": "Extraordinary",
+   "color": "#eb4b4b"
+  },
+  "type": "Tournament Finalist Trophy",
+  "genuine": false,
+  "market_hash_name": null,
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJai2l-lQ8ndwMWvJjSD91ll_J7L6Uq1fhv4kJfs9DFP_Lysa_w4JqGQDWaVkOp36bM4F3-1lEx1sG_XzNqtcn7DaFIhA5AiRuANrFDmxWMFZezK",
+  "original": {
+   "item_name": "#CSGO_CollectibleCoin_singapore2026_Quarterfinalist",
+   "image_inventory": "econ/status_icons/trophy_cs2_finalists"
+  }
+ },
+ {
   "id": "collectible-6001",
   "name": "Genuine Dust II Pin",
   "description": "This is a Series 1 collectible pin. It can be displayed on your profile.",

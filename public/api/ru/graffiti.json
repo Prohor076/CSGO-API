@@ -39999,5 +39999,599 @@
    "name": "cologne2026_team_iem_graffiti",
    "image_inventory": "econ/stickers/cologne2026/iem_graffiti"
   }
+ },
+ {
+  "id": "graffiti-11946",
+  "name": "Запечатанный граффити | MOUZ | Сингапур-2026",
+  "description": "Это запечатанный контейнер с шаблоном граффити. После вскрытия шаблона вы получите возможность применить его в игровом мире <b>50</b> раз.",
+  "def_index": "11946",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/singapore2026/mouz_graffiti_png.png",
+  "original": {
+   "name": "singapore2026_team_mouz_graffiti",
+   "image_inventory": "econ/stickers/singapore2026/mouz_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-11947",
+  "name": "Запечатанный граффити | Vitality | Сингапур-2026",
+  "description": "Это запечатанный контейнер с шаблоном граффити. После вскрытия шаблона вы получите возможность применить его в игровом мире <b>50</b> раз.",
+  "def_index": "11947",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/singapore2026/vita_graffiti_png.png",
+  "original": {
+   "name": "singapore2026_team_vita_graffiti",
+   "image_inventory": "econ/stickers/singapore2026/vita_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-11948",
+  "name": "Запечатанный граффити | FURIA | Сингапур-2026",
+  "description": "Это запечатанный контейнер с шаблоном граффити. После вскрытия шаблона вы получите возможность применить его в игровом мире <b>50</b> раз.",
+  "def_index": "11948",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/singapore2026/furi_graffiti_png.png",
+  "original": {
+   "name": "singapore2026_team_furi_graffiti",
+   "image_inventory": "econ/stickers/singapore2026/furi_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-11949",
+  "name": "Запечатанный граффити | Aurora | Сингапур-2026",
+  "description": "Это запечатанный контейнер с шаблоном граффити. После вскрытия шаблона вы получите возможность применить его в игровом мире <b>50</b> раз.",
+  "def_index": "11949",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/singapore2026/aura_graffiti_png.png",
+  "original": {
+   "name": "singapore2026_team_aura_graffiti",
+   "image_inventory": "econ/stickers/singapore2026/aura_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-11950",
+  "name": "Запечатанный граффити | Team Spirit | Сингапур-2026",
+  "description": "Это запечатанный контейнер с шаблоном граффити. После вскрытия шаблона вы получите возможность применить его в игровом мире <b>50</b> раз.",
+  "def_index": "11950",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/singapore2026/spir_graffiti_png.png",
+  "original": {
+   "name": "singapore2026_team_spir_graffiti",
+   "image_inventory": "econ/stickers/singapore2026/spir_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-11951",
+  "name": "Запечатанный граффити | BB Team | Сингапур-2026",
+  "description": "Это запечатанный контейнер с шаблоном граффити. После вскрытия шаблона вы получите возможность применить его в игровом мире <b>50</b> раз.",
+  "def_index": "11951",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/singapore2026/bbt_graffiti_png.png",
+  "original": {
+   "name": "singapore2026_team_bbt_graffiti",
+   "image_inventory": "econ/stickers/singapore2026/bbt_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-11952",
+  "name": "Запечатанный граффити | Falcons | Сингапур-2026",
+  "description": "Это запечатанный контейнер с шаблоном граффити. После вскрытия шаблона вы получите возможность применить его в игровом мире <b>50</b> раз.",
+  "def_index": "11952",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/singapore2026/fal_graffiti_png.png",
+  "original": {
+   "name": "singapore2026_team_fal_graffiti",
+   "image_inventory": "econ/stickers/singapore2026/fal_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-11953",
+  "name": "Запечатанный граффити | FUT | Сингапур-2026",
+  "description": "Это запечатанный контейнер с шаблоном граффити. После вскрытия шаблона вы получите возможность применить его в игровом мире <b>50</b> раз.",
+  "def_index": "11953",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/singapore2026/fut_graffiti_png.png",
+  "original": {
+   "name": "singapore2026_team_fut_graffiti",
+   "image_inventory": "econ/stickers/singapore2026/fut_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-11954",
+  "name": "Запечатанный граффити | Legacy | Сингапур-2026",
+  "description": "Это запечатанный контейнер с шаблоном граффити. После вскрытия шаблона вы получите возможность применить его в игровом мире <b>50</b> раз.",
+  "def_index": "11954",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/singapore2026/lgcy_graffiti_png.png",
+  "original": {
+   "name": "singapore2026_team_lgcy_graffiti",
+   "image_inventory": "econ/stickers/singapore2026/lgcy_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-11955",
+  "name": "Запечатанный граффити | Nemiga | Сингапур-2026",
+  "description": "Это запечатанный контейнер с шаблоном граффити. После вскрытия шаблона вы получите возможность применить его в игровом мире <b>50</b> раз.",
+  "def_index": "11955",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/singapore2026/nemi_graffiti_png.png",
+  "original": {
+   "name": "singapore2026_team_nemi_graffiti",
+   "image_inventory": "econ/stickers/singapore2026/nemi_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-11956",
+  "name": "Запечатанный граффити | G2 Esports | Сингапур-2026",
+  "description": "Это запечатанный контейнер с шаблоном граффити. После вскрытия шаблона вы получите возможность применить его в игровом мире <b>50</b> раз.",
+  "def_index": "11956",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/singapore2026/g2_graffiti_png.png",
+  "original": {
+   "name": "singapore2026_team_g2_graffiti",
+   "image_inventory": "econ/stickers/singapore2026/g2_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-11957",
+  "name": "Запечатанный граффити | The One | Сингапур-2026",
+  "description": "Это запечатанный контейнер с шаблоном граффити. После вскрытия шаблона вы получите возможность применить его в игровом мире <b>50</b> раз.",
+  "def_index": "11957",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/singapore2026/one_graffiti_png.png",
+  "original": {
+   "name": "singapore2026_team_one_graffiti",
+   "image_inventory": "econ/stickers/singapore2026/one_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-11958",
+  "name": "Запечатанный граффити | Natus Vincere | Сингапур-2026",
+  "description": "Это запечатанный контейнер с шаблоном граффити. После вскрытия шаблона вы получите возможность применить его в игровом мире <b>50</b> раз.",
+  "def_index": "11958",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/singapore2026/navi_graffiti_png.png",
+  "original": {
+   "name": "singapore2026_team_navi_graffiti",
+   "image_inventory": "econ/stickers/singapore2026/navi_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-11959",
+  "name": "Запечатанный граффити | Astralis | Сингапур-2026",
+  "description": "Это запечатанный контейнер с шаблоном граффити. После вскрытия шаблона вы получите возможность применить его в игровом мире <b>50</b> раз.",
+  "def_index": "11959",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/singapore2026/astr_graffiti_png.png",
+  "original": {
+   "name": "singapore2026_team_astr_graffiti",
+   "image_inventory": "econ/stickers/singapore2026/astr_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-11960",
+  "name": "Запечатанный граффити | Ninjas in Pyjamas | Сингапур-2026",
+  "description": "Это запечатанный контейнер с шаблоном граффити. После вскрытия шаблона вы получите возможность применить его в игровом мире <b>50</b> раз.",
+  "def_index": "11960",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/singapore2026/nip_graffiti_png.png",
+  "original": {
+   "name": "singapore2026_team_nip_graffiti",
+   "image_inventory": "econ/stickers/singapore2026/nip_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-11961",
+  "name": "Запечатанный граффити | The MongolZ | Сингапур-2026",
+  "description": "Это запечатанный контейнер с шаблоном граффити. После вскрытия шаблона вы получите возможность применить его в игровом мире <b>50</b> раз.",
+  "def_index": "11961",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/singapore2026/mngz_graffiti_png.png",
+  "original": {
+   "name": "singapore2026_team_mngz_graffiti",
+   "image_inventory": "econ/stickers/singapore2026/mngz_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-11962",
+  "name": "Запечатанный граффити | PVISION | Сингапур-2026",
+  "description": "Это запечатанный контейнер с шаблоном граффити. После вскрытия шаблона вы получите возможность применить его в игровом мире <b>50</b> раз.",
+  "def_index": "11962",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/singapore2026/pvis_graffiti_png.png",
+  "original": {
+   "name": "singapore2026_team_pvis_graffiti",
+   "image_inventory": "econ/stickers/singapore2026/pvis_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-11963",
+  "name": "Запечатанный граффити | HEROIC | Сингапур-2026",
+  "description": "Это запечатанный контейнер с шаблоном граффити. После вскрытия шаблона вы получите возможность применить его в игровом мире <b>50</b> раз.",
+  "def_index": "11963",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/singapore2026/hero_graffiti_png.png",
+  "original": {
+   "name": "singapore2026_team_hero_graffiti",
+   "image_inventory": "econ/stickers/singapore2026/hero_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-11964",
+  "name": "Запечатанный граффити | MIBR | Сингапур-2026",
+  "description": "Это запечатанный контейнер с шаблоном граффити. После вскрытия шаблона вы получите возможность применить его в игровом мире <b>50</b> раз.",
+  "def_index": "11964",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/singapore2026/mibr_graffiti_png.png",
+  "original": {
+   "name": "singapore2026_team_mibr_graffiti",
+   "image_inventory": "econ/stickers/singapore2026/mibr_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-11965",
+  "name": "Запечатанный граффити | FaZe Clan | Сингапур-2026",
+  "description": "Это запечатанный контейнер с шаблоном граффити. После вскрытия шаблона вы получите возможность применить его в игровом мире <b>50</b> раз.",
+  "def_index": "11965",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/singapore2026/faze_graffiti_png.png",
+  "original": {
+   "name": "singapore2026_team_faze_graffiti",
+   "image_inventory": "econ/stickers/singapore2026/faze_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-11966",
+  "name": "Запечатанный граффити | Team Liquid | Сингапур-2026",
+  "description": "Это запечатанный контейнер с шаблоном граффити. После вскрытия шаблона вы получите возможность применить его в игровом мире <b>50</b> раз.",
+  "def_index": "11966",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/singapore2026/liq_graffiti_png.png",
+  "original": {
+   "name": "singapore2026_team_liq_graffiti",
+   "image_inventory": "econ/stickers/singapore2026/liq_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-11967",
+  "name": "Запечатанный граффити | Eternal Fire | Сингапур-2026",
+  "description": "Это запечатанный контейнер с шаблоном граффити. После вскрытия шаблона вы получите возможность применить его в игровом мире <b>50</b> раз.",
+  "def_index": "11967",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/singapore2026/eter_graffiti_png.png",
+  "original": {
+   "name": "singapore2026_team_eter_graffiti",
+   "image_inventory": "econ/stickers/singapore2026/eter_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-11968",
+  "name": "Запечатанный граффити | 100 Thieves | Сингапур-2026",
+  "description": "Это запечатанный контейнер с шаблоном граффити. После вскрытия шаблона вы получите возможность применить его в игровом мире <b>50</b> раз.",
+  "def_index": "11968",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/singapore2026/thv_graffiti_png.png",
+  "original": {
+   "name": "singapore2026_team_thv_graffiti",
+   "image_inventory": "econ/stickers/singapore2026/thv_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-11969",
+  "name": "Запечатанный граффити | 9z Team | Сингапур-2026",
+  "description": "Это запечатанный контейнер с шаблоном граффити. После вскрытия шаблона вы получите возможность применить его в игровом мире <b>50</b> раз.",
+  "def_index": "11969",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/singapore2026/nine_graffiti_png.png",
+  "original": {
+   "name": "singapore2026_team_nine_graffiti",
+   "image_inventory": "econ/stickers/singapore2026/nine_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-11970",
+  "name": "Запечатанный граффити | M80 | Сингапур-2026",
+  "description": "Это запечатанный контейнер с шаблоном граффити. После вскрытия шаблона вы получите возможность применить его в игровом мире <b>50</b> раз.",
+  "def_index": "11970",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/singapore2026/m80_graffiti_png.png",
+  "original": {
+   "name": "singapore2026_team_m80_graffiti",
+   "image_inventory": "econ/stickers/singapore2026/m80_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-11971",
+  "name": "Запечатанный граффити | DENDELE | Сингапур-2026",
+  "description": "Это запечатанный контейнер с шаблоном граффити. После вскрытия шаблона вы получите возможность применить его в игровом мире <b>50</b> раз.",
+  "def_index": "11971",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/singapore2026/dend_graffiti_png.png",
+  "original": {
+   "name": "singapore2026_team_dend_graffiti",
+   "image_inventory": "econ/stickers/singapore2026/dend_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-11972",
+  "name": "Запечатанный граффити | Imperial Esports | Сингапур-2026",
+  "description": "Это запечатанный контейнер с шаблоном граффити. После вскрытия шаблона вы получите возможность применить его в игровом мире <b>50</b> раз.",
+  "def_index": "11972",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/singapore2026/imp_graffiti_png.png",
+  "original": {
+   "name": "singapore2026_team_imp_graffiti",
+   "image_inventory": "econ/stickers/singapore2026/imp_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-11973",
+  "name": "Запечатанный граффити | Wildcard | Сингапур-2026",
+  "description": "Это запечатанный контейнер с шаблоном граффити. После вскрытия шаблона вы получите возможность применить его в игровом мире <b>50</b> раз.",
+  "def_index": "11973",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/singapore2026/wcrd_graffiti_png.png",
+  "original": {
+   "name": "singapore2026_team_wcrd_graffiti",
+   "image_inventory": "econ/stickers/singapore2026/wcrd_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-11974",
+  "name": "Запечатанный граффити | GOSH | Сингапур-2026",
+  "description": "Это запечатанный контейнер с шаблоном граффити. После вскрытия шаблона вы получите возможность применить его в игровом мире <b>50</b> раз.",
+  "def_index": "11974",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/singapore2026/gosh_graffiti_png.png",
+  "original": {
+   "name": "singapore2026_team_gosh_graffiti",
+   "image_inventory": "econ/stickers/singapore2026/gosh_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-11975",
+  "name": "Запечатанный граффити | FlyQuest | Сингапур-2026",
+  "description": "Это запечатанный контейнер с шаблоном граффити. После вскрытия шаблона вы получите возможность применить его в игровом мире <b>50</b> раз.",
+  "def_index": "11975",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/singapore2026/fq_graffiti_png.png",
+  "original": {
+   "name": "singapore2026_team_fq_graffiti",
+   "image_inventory": "econ/stickers/singapore2026/fq_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-11976",
+  "name": "Запечатанный граффити | Chinggis Warriors | Сингапур-2026",
+  "description": "Это запечатанный контейнер с шаблоном граффити. После вскрытия шаблона вы получите возможность применить его в игровом мире <b>50</b> раз.",
+  "def_index": "11976",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/singapore2026/chin_graffiti_png.png",
+  "original": {
+   "name": "singapore2026_team_chin_graffiti",
+   "image_inventory": "econ/stickers/singapore2026/chin_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-11977",
+  "name": "Запечатанный граффити | Lynn Vision | Сингапур-2026",
+  "description": "Это запечатанный контейнер с шаблоном граффити. После вскрытия шаблона вы получите возможность применить его в игровом мире <b>50</b> раз.",
+  "def_index": "11977",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/singapore2026/lynn_graffiti_png.png",
+  "original": {
+   "name": "singapore2026_team_lynn_graffiti",
+   "image_inventory": "econ/stickers/singapore2026/lynn_graffiti"
+  }
+ },
+ {
+  "id": "graffiti-11978",
+  "name": "Запечатанный граффити | PGL | Сингапур-2026",
+  "description": "Это запечатанный контейнер с шаблоном граффити. После вскрытия шаблона вы получите возможность применить его в игровом мире <b>50</b> раз.",
+  "def_index": "11978",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "crates": [],
+  "market_hash_name": null,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/stickers/singapore2026/pgl_graffiti_png.png",
+  "original": {
+   "name": "singapore2026_team_pgl_graffiti",
+   "image_inventory": "econ/stickers/singapore2026/pgl_graffiti"
+  }
  }
 ]

@@ -3436,5 +3436,293 @@
    "name": "starjunk95_01",
    "image_inventory": "econ/music_kits/starjunk95_01"
   }
+ },
+ {
+  "id": "music_kit-105",
+  "name": "Набор музыки | ALLEYCVT & LEVEL UP — BELIEVE",
+  "description": "Этот набор музыки заменит всё музыкальное сопровождение в игре, и им можно поделиться с любым игроком на сервере. Также он включает гимн лучшего игрока, который проигрывается для всех в матче, если вы получили награду самого ценного игрока.\\n\\nМузыкальный набор заменяет следующую музыку:\\n- Главное меню\\n- Конец и начало раунда\\n- Задача карты\\n- Десятисекундное предупреждение\\n- Камера после смерти<br/><br/>ALLEYCVT and LEVEL UP join forces on \\\"BELIEVE\\\", a relentless bass record with drops heavy enough to shake the whole server.",
+  "def_index": "105",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "Music Kit | ALLEYCVT & LEVEL UP, BELIEVE",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/alleycvt_01_png.png",
+  "original": {
+   "name": "alleycvt_01",
+   "image_inventory": "econ/music_kits/alleycvt_01"
+  }
+ },
+ {
+  "id": "music_kit-105_st",
+  "name": "StatTrak™ Набор музыки | ALLEYCVT & LEVEL UP — BELIEVE",
+  "description": "<span style='color:#99ccff;'>На этом предмете используется технология StatTrak™, которая отслеживает определённые показатели владельца.</span><br/><br/><span style='color:#cf6a32;'>Этот предмет отслеживает количество наград СЦИ в официальных соревновательных играх.</span><br/><br/>Этот набор музыки заменит всё музыкальное сопровождение в игре, и им можно поделиться с любым игроком на сервере. Также он включает гимн лучшего игрока, который проигрывается для всех в матче, если вы получили награду самого ценного игрока.\\n\\nМузыкальный набор заменяет следующую музыку:\\n- Главное меню\\n- Конец и начало раунда\\n- Задача карты\\n- Десятисекундное предупреждение\\n- Камера после смерти<br/><br/>ALLEYCVT and LEVEL UP join forces on \\\"BELIEVE\\\", a relentless bass record with drops heavy enough to shake the whole server.",
+  "def_index": "105",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "StatTrak™ Music Kit | ALLEYCVT & LEVEL UP, BELIEVE",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/alleycvt_01_png.png",
+  "original": {
+   "name": "alleycvt_01",
+   "image_inventory": "econ/music_kits/alleycvt_01"
+  }
+ },
+ {
+  "id": "music_kit-106",
+  "name": "Набор музыки | Arcando & Pirapus — Ultrasound",
+  "description": "Этот набор музыки заменит всё музыкальное сопровождение в игре, и им можно поделиться с любым игроком на сервере. Также он включает гимн лучшего игрока, который проигрывается для всех в матче, если вы получили награду самого ценного игрока.\\n\\nМузыкальный набор заменяет следующую музыку:\\n- Главное меню\\n- Конец и начало раунда\\n- Задача карты\\n- Десятисекундное предупреждение\\n- Камера после смерти<br/><br/>From Arcando and Pirapus, \\\"Ultrasound\\\" is a high velocity drum and bass anthem that keeps the pressure on from first contact to final kill.",
+  "def_index": "106",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "Music Kit | Arcando & Pirapus, Ultrasound",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/arcando_01_png.png",
+  "original": {
+   "name": "arcando_01",
+   "image_inventory": "econ/music_kits/arcando_01"
+  }
+ },
+ {
+  "id": "music_kit-106_st",
+  "name": "StatTrak™ Набор музыки | Arcando & Pirapus — Ultrasound",
+  "description": "<span style='color:#99ccff;'>На этом предмете используется технология StatTrak™, которая отслеживает определённые показатели владельца.</span><br/><br/><span style='color:#cf6a32;'>Этот предмет отслеживает количество наград СЦИ в официальных соревновательных играх.</span><br/><br/>Этот набор музыки заменит всё музыкальное сопровождение в игре, и им можно поделиться с любым игроком на сервере. Также он включает гимн лучшего игрока, который проигрывается для всех в матче, если вы получили награду самого ценного игрока.\\n\\nМузыкальный набор заменяет следующую музыку:\\n- Главное меню\\n- Конец и начало раунда\\n- Задача карты\\n- Десятисекундное предупреждение\\n- Камера после смерти<br/><br/>From Arcando and Pirapus, \\\"Ultrasound\\\" is a high velocity drum and bass anthem that keeps the pressure on from first contact to final kill.",
+  "def_index": "106",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "StatTrak™ Music Kit | Arcando & Pirapus, Ultrasound",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/arcando_01_png.png",
+  "original": {
+   "name": "arcando_01",
+   "image_inventory": "econ/music_kits/arcando_01"
+  }
+ },
+ {
+  "id": "music_kit-107",
+  "name": "Набор музыки | DJ DIESEL & Hairitage — BANG YOUR HEAD",
+  "description": "Этот набор музыки заменит всё музыкальное сопровождение в игре, и им можно поделиться с любым игроком на сервере. Также он включает гимн лучшего игрока, который проигрывается для всех в матче, если вы получили награду самого ценного игрока.\\n\\nМузыкальный набор заменяет следующую музыку:\\n- Главное меню\\n- Конец и начало раунда\\n- Задача карты\\n- Десятисекундное предупреждение\\n- Камера после смерти<br/><br/>When DJ DIESEL, AKA Shaquille O'Neal, links up with bass heavyweight Hairitage, the result is \\\"BANG YOUR HEAD\\\", a dubstep banger made for headshots.",
+  "def_index": "107",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "Music Kit | DJ DIESEL & Hairitage, BANG YOUR HEAD",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/djdiesel_01_png.png",
+  "original": {
+   "name": "djdiesel_01",
+   "image_inventory": "econ/music_kits/djdiesel_01"
+  }
+ },
+ {
+  "id": "music_kit-107_st",
+  "name": "StatTrak™ Набор музыки | DJ DIESEL & Hairitage — BANG YOUR HEAD",
+  "description": "<span style='color:#99ccff;'>На этом предмете используется технология StatTrak™, которая отслеживает определённые показатели владельца.</span><br/><br/><span style='color:#cf6a32;'>Этот предмет отслеживает количество наград СЦИ в официальных соревновательных играх.</span><br/><br/>Этот набор музыки заменит всё музыкальное сопровождение в игре, и им можно поделиться с любым игроком на сервере. Также он включает гимн лучшего игрока, который проигрывается для всех в матче, если вы получили награду самого ценного игрока.\\n\\nМузыкальный набор заменяет следующую музыку:\\n- Главное меню\\n- Конец и начало раунда\\n- Задача карты\\n- Десятисекундное предупреждение\\n- Камера после смерти<br/><br/>When DJ DIESEL, AKA Shaquille O'Neal, links up with bass heavyweight Hairitage, the result is \\\"BANG YOUR HEAD\\\", a dubstep banger made for headshots.",
+  "def_index": "107",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "StatTrak™ Music Kit | DJ DIESEL & Hairitage, BANG YOUR HEAD",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/djdiesel_01_png.png",
+  "original": {
+   "name": "djdiesel_01",
+   "image_inventory": "econ/music_kits/djdiesel_01"
+  }
+ },
+ {
+  "id": "music_kit-108",
+  "name": "Набор музыки | F.O.O.L — Criminals",
+  "description": "Этот набор музыки заменит всё музыкальное сопровождение в игре, и им можно поделиться с любым игроком на сервере. Также он включает гимн лучшего игрока, который проигрывается для всех в матче, если вы получили награду самого ценного игрока.\\n\\nМузыкальный набор заменяет следующую музыку:\\n- Главное меню\\n- Конец и начало раунда\\n- Задача карты\\n- Десятисекундное предупреждение\\n- Камера после смерти<br/><br/>T-side finally has a theme song. Dark, cinematic, and full of synthwave, F.O.O.L's \\\"Criminals\\\" provides a score for every execute.",
+  "def_index": "108",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "Music Kit | F.O.O.L, Criminals",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/fool_01_png.png",
+  "original": {
+   "name": "fool_01",
+   "image_inventory": "econ/music_kits/fool_01"
+  }
+ },
+ {
+  "id": "music_kit-108_st",
+  "name": "StatTrak™ Набор музыки | F.O.O.L — Criminals",
+  "description": "<span style='color:#99ccff;'>На этом предмете используется технология StatTrak™, которая отслеживает определённые показатели владельца.</span><br/><br/><span style='color:#cf6a32;'>Этот предмет отслеживает количество наград СЦИ в официальных соревновательных играх.</span><br/><br/>Этот набор музыки заменит всё музыкальное сопровождение в игре, и им можно поделиться с любым игроком на сервере. Также он включает гимн лучшего игрока, который проигрывается для всех в матче, если вы получили награду самого ценного игрока.\\n\\nМузыкальный набор заменяет следующую музыку:\\n- Главное меню\\n- Конец и начало раунда\\n- Задача карты\\n- Десятисекундное предупреждение\\n- Камера после смерти<br/><br/>T-side finally has a theme song. Dark, cinematic, and full of synthwave, F.O.O.L's \\\"Criminals\\\" provides a score for every execute.",
+  "def_index": "108",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "StatTrak™ Music Kit | F.O.O.L, Criminals",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/fool_01_png.png",
+  "original": {
+   "name": "fool_01",
+   "image_inventory": "econ/music_kits/fool_01"
+  }
+ },
+ {
+  "id": "music_kit-109",
+  "name": "Набор музыки | Noisestorm — Crab Rave",
+  "description": "Этот набор музыки заменит всё музыкальное сопровождение в игре, и им можно поделиться с любым игроком на сервере. Также он включает гимн лучшего игрока, который проигрывается для всех в матче, если вы получили награду самого ценного игрока.\\n\\nМузыкальный набор заменяет следующую музыку:\\n- Главное меню\\n- Конец и начало раунда\\n- Задача карты\\n- Десятисекундное предупреждение\\n- Камера после смерти<br/><br/>Released on April Fools' Day 2018, Noisestorm's \\\"Crab Rave\\\" scuttled its way into internet legend. Win the round and spread the news; the enemy team is gone.",
+  "def_index": "109",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "Music Kit | Noisestorm, Crab Rave",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/noisestorm_01_png.png",
+  "original": {
+   "name": "noisestorm_01",
+   "image_inventory": "econ/music_kits/noisestorm_01"
+  }
+ },
+ {
+  "id": "music_kit-109_st",
+  "name": "StatTrak™ Набор музыки | Noisestorm — Crab Rave",
+  "description": "<span style='color:#99ccff;'>На этом предмете используется технология StatTrak™, которая отслеживает определённые показатели владельца.</span><br/><br/><span style='color:#cf6a32;'>Этот предмет отслеживает количество наград СЦИ в официальных соревновательных играх.</span><br/><br/>Этот набор музыки заменит всё музыкальное сопровождение в игре, и им можно поделиться с любым игроком на сервере. Также он включает гимн лучшего игрока, который проигрывается для всех в матче, если вы получили награду самого ценного игрока.\\n\\nМузыкальный набор заменяет следующую музыку:\\n- Главное меню\\n- Конец и начало раунда\\n- Задача карты\\n- Десятисекундное предупреждение\\n- Камера после смерти<br/><br/>Released on April Fools' Day 2018, Noisestorm's \\\"Crab Rave\\\" scuttled its way into internet legend. Win the round and spread the news; the enemy team is gone.",
+  "def_index": "109",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "StatTrak™ Music Kit | Noisestorm, Crab Rave",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/noisestorm_01_png.png",
+  "original": {
+   "name": "noisestorm_01",
+   "image_inventory": "econ/music_kits/noisestorm_01"
+  }
+ },
+ {
+  "id": "music_kit-110",
+  "name": "Набор музыки | Pegboard Nerds — Disconnected",
+  "description": "Этот набор музыки заменит всё музыкальное сопровождение в игре, и им можно поделиться с любым игроком на сервере. Также он включает гимн лучшего игрока, который проигрывается для всех в матче, если вы получили награду самого ценного игрока.\\n\\nМузыкальный набор заменяет следующую музыку:\\n- Главное меню\\n- Конец и начало раунда\\n- Задача карты\\n- Десятисекундное предупреждение\\n- Камера после смерти<br/><br/>A Monstercat classic, Pegboard Nerds' \\\"Disconnected\\\" has been short-circuiting speakers for over a decade. This time, it's the other team disconnecting.",
+  "def_index": "110",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "Music Kit | Pegboard Nerds, Disconnected",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/pegboardnerds_01_png.png",
+  "original": {
+   "name": "pegboardnerds_01",
+   "image_inventory": "econ/music_kits/pegboardnerds_01"
+  }
+ },
+ {
+  "id": "music_kit-110_st",
+  "name": "StatTrak™ Набор музыки | Pegboard Nerds — Disconnected",
+  "description": "<span style='color:#99ccff;'>На этом предмете используется технология StatTrak™, которая отслеживает определённые показатели владельца.</span><br/><br/><span style='color:#cf6a32;'>Этот предмет отслеживает количество наград СЦИ в официальных соревновательных играх.</span><br/><br/>Этот набор музыки заменит всё музыкальное сопровождение в игре, и им можно поделиться с любым игроком на сервере. Также он включает гимн лучшего игрока, который проигрывается для всех в матче, если вы получили награду самого ценного игрока.\\n\\nМузыкальный набор заменяет следующую музыку:\\n- Главное меню\\n- Конец и начало раунда\\n- Задача карты\\n- Десятисекундное предупреждение\\n- Камера после смерти<br/><br/>A Monstercat classic, Pegboard Nerds' \\\"Disconnected\\\" has been short-circuiting speakers for over a decade. This time, it's the other team disconnecting.",
+  "def_index": "110",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "StatTrak™ Music Kit | Pegboard Nerds, Disconnected",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/pegboardnerds_01_png.png",
+  "original": {
+   "name": "pegboardnerds_01",
+   "image_inventory": "econ/music_kits/pegboardnerds_01"
+  }
+ },
+ {
+  "id": "music_kit-111",
+  "name": "Набор музыки | Tristam & Braken — Flight",
+  "description": "Этот набор музыки заменит всё музыкальное сопровождение в игре, и им можно поделиться с любым игроком на сервере. Также он включает гимн лучшего игрока, который проигрывается для всех в матче, если вы получили награду самого ценного игрока.\\n\\nМузыкальный набор заменяет следующую музыку:\\n- Главное меню\\n- Конец и начало раунда\\n- Задача карты\\n- Десятисекундное предупреждение\\n- Камера после смерти<br/><br/>Tristam & Braken's \\\"Flight\\\" is pure nostalgia that sounds just as good today as when it originally released in 2013.",
+  "def_index": "111",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "Music Kit | Tristam & Braken, Flight",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/tristam_braken_01_png.png",
+  "original": {
+   "name": "tristam_braken_01",
+   "image_inventory": "econ/music_kits/tristam_braken_01"
+  }
+ },
+ {
+  "id": "music_kit-111_st",
+  "name": "StatTrak™ Набор музыки | Tristam & Braken — Flight",
+  "description": "<span style='color:#99ccff;'>На этом предмете используется технология StatTrak™, которая отслеживает определённые показатели владельца.</span><br/><br/><span style='color:#cf6a32;'>Этот предмет отслеживает количество наград СЦИ в официальных соревновательных играх.</span><br/><br/>Этот набор музыки заменит всё музыкальное сопровождение в игре, и им можно поделиться с любым игроком на сервере. Также он включает гимн лучшего игрока, который проигрывается для всех в матче, если вы получили награду самого ценного игрока.\\n\\nМузыкальный набор заменяет следующую музыку:\\n- Главное меню\\n- Конец и начало раунда\\n- Задача карты\\n- Десятисекундное предупреждение\\n- Камера после смерти<br/><br/>Tristam & Braken's \\\"Flight\\\" is pure nostalgia that sounds just as good today as when it originally released in 2013.",
+  "def_index": "111",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "StatTrak™ Music Kit | Tristam & Braken, Flight",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/tristam_braken_01_png.png",
+  "original": {
+   "name": "tristam_braken_01",
+   "image_inventory": "econ/music_kits/tristam_braken_01"
+  }
+ },
+ {
+  "id": "music_kit-112",
+  "name": "Набор музыки | Vicetone & Cozi Zuehlsdorff — Nevada",
+  "description": "Этот набор музыки заменит всё музыкальное сопровождение в игре, и им можно поделиться с любым игроком на сервере. Также он включает гимн лучшего игрока, который проигрывается для всех в матче, если вы получили награду самого ценного игрока.\\n\\nМузыкальный набор заменяет следующую музыку:\\n- Главное меню\\n- Конец и начало раунда\\n- Задача карты\\n- Десятисекундное предупреждение\\n- Камера после смерти<br/><br/>Some songs take you right back, and Vicetone's \\\"Nevada\\\" is a dose of 2016, best enjoyed celebrating a victory.",
+  "def_index": "112",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "Music Kit | Vicetone & Cozi Zuehlsdorff, Nevada",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/vicetone_01_png.png",
+  "original": {
+   "name": "vicetone_01",
+   "image_inventory": "econ/music_kits/vicetone_01"
+  }
+ },
+ {
+  "id": "music_kit-112_st",
+  "name": "StatTrak™ Набор музыки | Vicetone & Cozi Zuehlsdorff — Nevada",
+  "description": "<span style='color:#99ccff;'>На этом предмете используется технология StatTrak™, которая отслеживает определённые показатели владельца.</span><br/><br/><span style='color:#cf6a32;'>Этот предмет отслеживает количество наград СЦИ в официальных соревновательных играх.</span><br/><br/>Этот набор музыки заменит всё музыкальное сопровождение в игре, и им можно поделиться с любым игроком на сервере. Также он включает гимн лучшего игрока, который проигрывается для всех в матче, если вы получили награду самого ценного игрока.\\n\\nМузыкальный набор заменяет следующую музыку:\\n- Главное меню\\n- Конец и начало раунда\\n- Задача карты\\n- Десятисекундное предупреждение\\n- Камера после смерти<br/><br/>Some songs take you right back, and Vicetone's \\\"Nevada\\\" is a dose of 2016, best enjoyed celebrating a victory.",
+  "def_index": "112",
+  "rarity": {
+   "id": "rarity_rare",
+   "name": "высшего класса",
+   "color": "#4b69ff"
+  },
+  "market_hash_name": "StatTrak™ Music Kit | Vicetone & Cozi Zuehlsdorff, Nevada",
+  "exclusive": false,
+  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/music_kits/vicetone_01_png.png",
+  "original": {
+   "name": "vicetone_01",
+   "image_inventory": "econ/music_kits/vicetone_01"
+  }
  }
 ]
