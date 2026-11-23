@@ -3,6 +3,7 @@ import { $t, languageData } from "./translations.js";
 import { state } from "./main.js";
 import { getRarityColor } from "../utils/index.js";
 import { getImageUrl, getImageUrlSvg } from "../constants.js";
+import collectionReleaseDates from "../utils/collectionReleaseDates.json" with { type: "json" };
 
 const SPECIAL_COLLECTIONS = ["#CSGO_set_timed_drops_achroma", "#CSGO_set_timed_drops_exuberant"];
 
@@ -44,6 +45,17 @@ const isSelfOpeningCollection = item => {
     return false;
 };
 
+const getReleaseDate = name => {
+    const collection = collectionReleaseDates[name];
+
+    if (collection === undefined) {
+        console.log("[ERROR] Collection release date not found", name);
+        return null;
+    }
+
+    return collection.date;
+};
+
 const getImage = item => {
     const { cdnImages } = state;
     const fileName = `${item.name.replace("#CSGO_", "")}`;
@@ -62,6 +74,8 @@ const parseItem = item => {
     return {
         id: `collection-${item.name.replace("#CSGO_", "").replace(/_/g, "-")}`,
         name: item.name_force ? $t(item.name_force) : $t(item.name),
+        description: $t(item.set_description),
+        release_date: getReleaseDate(item.name),
         crates: (cratesByCollections?.[item.name.replace("#CSGO_", "")] ?? []).map(i => ({
             ...i,
             name: $t(i.name),
@@ -94,6 +108,8 @@ const parseItemSelfOpening = item => {
     return {
         id: `collection-${item.object_id}`,
         name: $t(item.item_name),
+        description: $t(item.set_description),
+        release_date: getReleaseDate(item.item_name),
         crates: [],
         contains: (skinsByCollections?.[item.name] ?? []).map(i => ({
             ...i,
