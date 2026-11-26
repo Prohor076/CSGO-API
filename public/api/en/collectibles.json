@@ -11538,7 +11538,7 @@
   "type": "Tournament Pass",
   "genuine": false,
   "market_hash_name": "Singapore 2026 Viewer Pass",
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/singapore2026/singapore2026_pass_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemie61F05Ijm7wu3E0u-jZ_u-iNL4OCrOvQ_ds-DD3SDj7t14LYwGijkkx4h4mTQyImsJHvFaAMpCsZ0Ru8OsUXsktbnN-y35FPAy9USi_1y8OE",
   "original": {
    "item_name": "#CSGO_TournamentPass_singapore2026",
    "image_inventory": "econ/tournaments/singapore2026/singapore2026_pass"
@@ -11557,7 +11557,7 @@
   "type": "Tournament Pass",
   "genuine": false,
   "market_hash_name": "Singapore 2026 Viewer Pass + 900 Tokens",
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/singapore2026/singapore2026_pass_pack_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemie61F05Ijm7wu3E0u-jZ_u-iNL4OCrOvQ_ds-DD3SD_v53s-onFyviwklytjzVzIn9JX6ebgIiA5EhFuYK5xexxIWxMujqtAHbiNpMxDK-0H2pmD9wYQ",
   "original": {
    "item_name": "#CSGO_TournamentPass_singapore2026_pack",
    "image_inventory": "econ/tournaments/singapore2026/singapore2026_pass_pack"
@@ -11576,7 +11576,7 @@
   "type": "Pick'Em Coin",
   "genuine": false,
   "market_hash_name": null,
-  "image": "https://raw.githubusercontent.com/ByMykel/counter-strike-image-tracker/main/static/panorama/images/econ/tournaments/singapore2026/singapore2026_coin_bronze_png.png",
+  "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGJG5zlm-UfvRzd6yemie61F05Ijm7wu3E0u-jZ_u-iNL4OCrOvQ_ds-QAW6e_uxkv-9zSmfhzU1w5myByNeqIHiVawUpX5N3TeICsRnul9bkP-2ztgGK2I9Hmyn5kGoXuRFtCOSd",
   "original": {
    "item_name": "#CSGO_TournamentJournal_singapore2026",
    "image_inventory": "econ/tournaments/singapore2026/singapore2026_coin_bronze"
